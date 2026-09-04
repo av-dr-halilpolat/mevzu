@@ -48,6 +48,20 @@ olduğu anlamına gelmez; imzasız olduğu anlamına gelir.
 - **Not defteri:** konu konu sayfalar; kısayol düğmeleri.
 - **Ctrl+F:** açık metnin ve arayüzün içinde arama.
 
+Bu uygulamayı yapmaktaki amacım, işlerimde sürekli kullandığım mevzuatı derli toplu bir şekilde ve hızlıca açabilmektir. 
+
+Daha önce sürekli şekilde tarayıcıdan mevzuat.gov.tr ye girmek zorunda kalıyordum ve açılan sayfada arama yapmak zorundaydım. Bu uygulama ile internete ve tarayıcıya ihtiyaç olmadan basit, sade, hızlı, pratik ve ilgili madde veya konuya hızlı arama ile hızlıca erişim sağlamış oldum. 
+
+Eskiden help (chm) dosyaları vardı, onlar çok kullanışlıydı. Yeni teknolojiyi kullanarak modern bir şey üretmek istedim. Ortaya bu ürün çıktı. 
+
+Çok pratik ve kullanışlı oldu diye düşünüyorum. 
+
+Herkese faydalı olmasını dilerim. 
+
+Av. Dr. Halil POLAT
+
+
+
 ## Güncelleme
 
 Mevzuat değiştiğinde program açılışta haber verir; **indir** deyince
