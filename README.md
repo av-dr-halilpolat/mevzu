@@ -10,18 +10,20 @@ bir masaüstü programı.
 
 ## İndirme
 
-1. Sağdaki **Releases** bölümünden `MEVZU-1.0.exe` dosyasını indirin.
-2. Çift tıklayın. Kurulum yok, Python ya da başka bir program gerekmez.
+1. Şu bağlantıya tıklayın — her zaman en güncel sürümü indirir:
+   **[MEVZU.exe indir](https://github.com/av-dr-halilpolat/mevzu/releases/latest/download/MEVZU.exe)**
+2. İnen dosyaya çift tıklayın. Kurulum yok, Python ya da başka bir
+   program gerekmez.
 
 İndirdiğiniz dosyanın bozulmadığını doğrulamak isterseniz — Windows'ta
 komut istemine şunu yazın, çıkan uzun numara aşağıdakiyle aynı olmalı:
 
 ```
-certutil -hashfile MEVZU-1.0.exe SHA256
+certutil -hashfile MEVZU.exe SHA256
 ```
 
-`MEVZU-1.0.exe` · SHA256:
-`94d0a578f023af9955b122e54ade33b22e6bfbed2527c43ecebc6b83f53d0b9a`
+`MEVZU.exe` (sürüm 1.0) · SHA256:
+`f943b7e2de2ecd0a210dc4fee7ef4faec4803a026273a05db3606cfe689a5f21`
 
 ### Windows uyarı verirse
 
@@ -71,7 +73,7 @@ alırsınız.
 
 ## Kaldırma
 
-`MEVZU-1.0.exe` dosyasını silin. Verilerinizi de silmek isterseniz
+`MEVZU.exe` dosyasını silin. Verilerinizi de silmek isterseniz
 `%LOCALAPPDATA%\MEVZU` klasörünü silin.
 
 ---
