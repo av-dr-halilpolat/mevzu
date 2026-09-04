@@ -13,6 +13,16 @@ bir masaüstü programı.
 1. Sağdaki **Releases** bölümünden `MEVZU-1.0.exe` dosyasını indirin.
 2. Çift tıklayın. Kurulum yok, Python ya da başka bir program gerekmez.
 
+İndirdiğiniz dosyanın bozulmadığını doğrulamak isterseniz — Windows'ta
+komut istemine şunu yazın, çıkan uzun numara aşağıdakiyle aynı olmalı:
+
+```
+certutil -hashfile MEVZU-1.0.exe SHA256
+```
+
+`MEVZU-1.0.exe` · SHA256:
+`94d0a578f023af9955b122e54ade33b22e6bfbed2527c43ecebc6b83f53d0b9a`
+
 ### Windows uyarı verirse
 
 İndirilen programlar dijital imzası yoksa Windows bir uyarı gösterir:
