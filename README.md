@@ -22,8 +22,8 @@ komut istemine şunu yazın, çıkan uzun numara aşağıdakiyle aynı olmalı:
 certutil -hashfile MEVZU.exe SHA256
 ```
 
-`MEVZU.exe` (sürüm 1.0) · SHA256:
-`f943b7e2de2ecd0a210dc4fee7ef4faec4803a026273a05db3606cfe689a5f21`
+`MEVZU.exe` (sürüm 1.1) · SHA256:
+`71b120fc8b208d6eb0055dcc41f13bc4f71fa002523ac1bb2d88396770bd634e`
 
 ### Windows uyarı verirse
 
