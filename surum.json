@@ -1,10 +1,10 @@
 {
  "metin": "6 Eylül 2026",
- "zaman": 1788727770,
- "kurulus": "6 Eylül 2026",
+ "zaman": 1788728655,
+ "kurulus": "7 Eylül 2026",
  "mevzuat": 48,
- "boyut": 13714368,
- "surum": "1.4",
- "not": "Telefon arayüzü sadeleştirildi",
- "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.4/MEVZU.html"
+ "boyut": 13718390,
+ "surum": "1.5",
+ "not": "Tarayıcı sürümüne yenileme düğmesi eklendi",
+ "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.5/MEVZU.html"
 }
