@@ -1,0 +1,25 @@
+{
+ "name": "MEVZU",
+ "short_name": "MEVZU",
+ "description": "Sık kullanılan Türk mevzuatı, tek pencerede",
+ "lang": "tr",
+ "dir": "ltr",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#15343a",
+ "theme_color": "#15343a",
+ "icons": [
+  {
+   "src": "simge-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "simge-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

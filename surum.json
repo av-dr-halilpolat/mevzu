@@ -1,10 +1,10 @@
 {
  "metin": "6 Eylül 2026",
- "zaman": 1788729753,
+ "zaman": 1788730623,
  "kurulus": "7 Eylül 2026",
  "mevzuat": 48,
- "boyut": 13719536,
- "surum": "1.6",
- "not": "Karşılama ekranındaki yönergeler telefona uyarlandı",
- "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.6/MEVZU.html"
+ "boyut": 13721132,
+ "surum": "1.7",
+ "not": "Ana ekran simgesi ve telefon düzeltmeleri",
+ "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.7/MEVZU.html"
 }
