@@ -1,10 +1,10 @@
 {
- "metin": "4 Eylül 2026",
- "zaman": 1788600443,
- "kurulus": "5 Eylül 2026",
- "mevzuat": 47,
- "boyut": 12977663,
- "surum": "1.1",
- "not": "Arayüz ölçeği: yazı ve düğmeler büyütülebiliyor",
- "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.1/MEVZU.html"
+ "metin": "6 Eylül 2026",
+ "zaman": 1788717474,
+ "kurulus": "6 Eylül 2026",
+ "mevzuat": 48,
+ "boyut": 13698456,
+ "surum": "1.2",
+ "not": "Vergi Usul Kanunu eklendi",
+ "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.2/MEVZU.html"
 }
