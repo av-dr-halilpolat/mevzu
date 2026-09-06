@@ -1,10 +1,10 @@
 {
  "metin": "6 Eylül 2026",
- "zaman": 1788717474,
+ "zaman": 1788719954,
  "kurulus": "6 Eylül 2026",
  "mevzuat": 48,
- "boyut": 13698456,
- "surum": "1.2",
- "not": "Vergi Usul Kanunu eklendi",
- "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.2/MEVZU.html"
+ "boyut": 13708843,
+ "surum": "1.3",
+ "not": "Telefon ve tablet düzeni eklendi",
+ "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.3/MEVZU.html"
 }

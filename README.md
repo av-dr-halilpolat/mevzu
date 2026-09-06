@@ -8,6 +8,18 @@ bir masaüstü programı.
 
 ---
 
+## Tarayıcıdan kullanmak — indirmeden
+
+Telefon, tablet ya da başka bir bilgisayardan, hiçbir şey indirmeden:
+
+**https://av-dr-halilpolat.github.io/mevzu/**
+
+Telefonda tarayıcının menüsünden **"Ana Ekrana Ekle"** derseniz
+uygulama gibi durur. İlk açılışta metinler bir kez iner (13 MB),
+sonrasında hızlı açılır.
+
+---
+
 ## İndirme
 
 1. Şu bağlantıya tıklayın — her zaman en güncel sürümü indirir:
@@ -22,7 +34,7 @@ komut istemine şunu yazın, çıkan uzun numara aşağıdakiyle aynı olmalı:
 certutil -hashfile MEVZU.exe SHA256
 ```
 
-`MEVZU.exe` (sürüm 1.2) · SHA256:
+`MEVZU.exe` (sürüm 1.3) · SHA256:
 `71b120fc8b208d6eb0055dcc41f13bc4f71fa002523ac1bb2d88396770bd634e`
 
 ### Windows uyarı verirse
