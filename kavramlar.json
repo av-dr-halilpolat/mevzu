@@ -1,0 +1,5928 @@
+{
+  "kavramlar": {
+    "lehe yasa uygulaması": [
+      {
+        "kanun": "TCK",
+        "no": "7"
+      }
+    ],
+    "kast": [
+      {
+        "kanun": "TCK",
+        "no": "21"
+      }
+    ],
+    "olası kast": [
+      {
+        "kanun": "TCK",
+        "no": "21"
+      }
+    ],
+    "taksir": [
+      {
+        "kanun": "TCK",
+        "no": "22"
+      }
+    ],
+    "bilinçli taksir": [
+      {
+        "kanun": "TCK",
+        "no": "22"
+      }
+    ],
+    "kanun hükmü": [
+      {
+        "kanun": "TCK",
+        "no": "24"
+      }
+    ],
+    "meşru savunma": [
+      {
+        "kanun": "TCK",
+        "no": "25"
+      }
+    ],
+    "zorunluluk hali": [
+      {
+        "kanun": "TCK",
+        "no": "25"
+      }
+    ],
+    "hakkın kullanılması": [
+      {
+        "kanun": "TCK",
+        "no": "26"
+      }
+    ],
+    "sınırın aşılması": [
+      {
+        "kanun": "TCK",
+        "no": "27"
+      }
+    ],
+    "haksız tahrik": [
+      {
+        "kanun": "TCK",
+        "no": "29"
+      }
+    ],
+    "hata": [
+      {
+        "kanun": "TCK",
+        "no": "30"
+      },
+      {
+        "kanun": "KabK",
+        "no": "10"
+      },
+      {
+        "kanun": "TBK",
+        "no": "30"
+      }
+    ],
+    "yaş küçüklüğü": [
+      {
+        "kanun": "TCK",
+        "no": "31"
+      },
+      {
+        "kanun": "KabK",
+        "no": "11"
+      }
+    ],
+    "akıl hastalığı": [
+      {
+        "kanun": "TCK",
+        "no": "32"
+      },
+      {
+        "kanun": "ÇKK",
+        "no": "12"
+      }
+    ],
+    "teşebbüs": [
+      {
+        "kanun": "TCK",
+        "no": "35"
+      },
+      {
+        "kanun": "KabK",
+        "no": "13"
+      }
+    ],
+    "iştirak": [
+      {
+        "kanun": "TCK",
+        "no": "37"
+      },
+      {
+        "kanun": "KabK",
+        "no": "14"
+      }
+    ],
+    "azmettirme": [
+      {
+        "kanun": "TCK",
+        "no": "38"
+      }
+    ],
+    "yardım etme": [
+      {
+        "kanun": "TCK",
+        "no": "39"
+      }
+    ],
+    "zincirleme suç": [
+      {
+        "kanun": "TCK",
+        "no": "43"
+      }
+    ],
+    "fikri içtima": [
+      {
+        "kanun": "TCK",
+        "no": "44"
+      }
+    ],
+    "cezalar": [
+      {
+        "kanun": "TCK",
+        "no": "45"
+      }
+    ],
+    "hapis cezaları": [
+      {
+        "kanun": "TCK",
+        "no": "46"
+      }
+    ],
+    "seçenek yaptırımlar": [
+      {
+        "kanun": "TCK",
+        "no": "50"
+      }
+    ],
+    "erteleme": [
+      {
+        "kanun": "TCK",
+        "no": "51"
+      },
+      {
+        "kanun": "CGTİHK",
+        "no": "16"
+      }
+    ],
+    "adli para cezası": [
+      {
+        "kanun": "TCK",
+        "no": "52"
+      }
+    ],
+    "hak yoksunlukları": [
+      {
+        "kanun": "TCK",
+        "no": "53"
+      }
+    ],
+    "müsadere": [
+      {
+        "kanun": "TCK",
+        "no": "54"
+      },
+      {
+        "kanun": "CMK",
+        "no": "256"
+      },
+      {
+        "kanun": "KaçMK",
+        "no": "13"
+      }
+    ],
+    "tekerrür": [
+      {
+        "kanun": "TCK",
+        "no": "58"
+      },
+      {
+        "kanun": "CGTİHK",
+        "no": "108"
+      },
+      {
+        "kanun": "VUK",
+        "no": "339"
+      }
+    ],
+    "cezanın belirlenmesi": [
+      {
+        "kanun": "TCK",
+        "no": "61"
+      }
+    ],
+    "takdiri indirim": [
+      {
+        "kanun": "TCK",
+        "no": "62"
+      }
+    ],
+    "mahsup": [
+      {
+        "kanun": "TCK",
+        "no": "63"
+      }
+    ],
+    "ölüm": [
+      {
+        "kanun": "TCK",
+        "no": "64"
+      }
+    ],
+    "af": [
+      {
+        "kanun": "TCK",
+        "no": "65"
+      }
+    ],
+    "zamanaşımı": [
+      {
+        "kanun": "TCK",
+        "no": "66"
+      },
+      {
+        "kanun": "CMK Yür.",
+        "no": "15"
+      },
+      {
+        "kanun": "KabK",
+        "no": "20"
+      },
+      {
+        "kanun": "KTK",
+        "no": "109"
+      },
+      {
+        "kanun": "TBK",
+        "no": "146"
+      }
+    ],
+    "şikayet": [
+      {
+        "kanun": "TCK",
+        "no": "73"
+      },
+      {
+        "kanun": "İİK",
+        "no": "16"
+      }
+    ],
+    "önödeme": [
+      {
+        "kanun": "TCK",
+        "no": "75"
+      }
+    ],
+    "göçmen kaçakçılığı": [
+      {
+        "kanun": "TCK",
+        "no": "79"
+      }
+    ],
+    "kasten öldürme": [
+      {
+        "kanun": "TCK",
+        "no": "81"
+      }
+    ],
+    "taksirle öldürme": [
+      {
+        "kanun": "TCK",
+        "no": "85"
+      }
+    ],
+    "kasten yaralama": [
+      {
+        "kanun": "TCK",
+        "no": "86"
+      }
+    ],
+    "taksirle yaralama": [
+      {
+        "kanun": "TCK",
+        "no": "89"
+      }
+    ],
+    "cinsel saldırı": [
+      {
+        "kanun": "TCK",
+        "no": "102"
+      }
+    ],
+    "cinsel istismar": [
+      {
+        "kanun": "TCK",
+        "no": "103"
+      }
+    ],
+    "reşit olmayanla cinsel ilişki": [
+      {
+        "kanun": "TCK",
+        "no": "104"
+      }
+    ],
+    "cinsel taciz": [
+      {
+        "kanun": "TCK",
+        "no": "105"
+      }
+    ],
+    "tehdit": [
+      {
+        "kanun": "TCK",
+        "no": "106"
+      }
+    ],
+    "şantaj": [
+      {
+        "kanun": "TCK",
+        "no": "107"
+      }
+    ],
+    "kişiyi hürr. yok. kılma": [
+      {
+        "kanun": "TCK",
+        "no": "109"
+      }
+    ],
+    "konut dok. ihlal": [
+      {
+        "kanun": "TCK",
+        "no": "116"
+      }
+    ],
+    "rahatsız etme": [
+      {
+        "kanun": "TCK",
+        "no": "123"
+      },
+      {
+        "kanun": "KabK",
+        "no": "37"
+      }
+    ],
+    "hakaret": [
+      {
+        "kanun": "TCK",
+        "no": "125"
+      }
+    ],
+    "hırsızlık": [
+      {
+        "kanun": "TCK",
+        "no": "141"
+      }
+    ],
+    "yağma": [
+      {
+        "kanun": "TCK",
+        "no": "148"
+      }
+    ],
+    "mala zarar verme": [
+      {
+        "kanun": "TCK",
+        "no": "151"
+      }
+    ],
+    "güveni köt. kullanma": [
+      {
+        "kanun": "TCK",
+        "no": "155"
+      }
+    ],
+    "dolandırıcılık": [
+      {
+        "kanun": "TCK",
+        "no": "157"
+      }
+    ],
+    "genel güv. teh. sokma": [
+      {
+        "kanun": "TCK",
+        "no": "170"
+      }
+    ],
+    "trafik güv. teh. sokma": [
+      {
+        "kanun": "TCK",
+        "no": "179"
+      }
+    ],
+    "uyuşturucu ticareti": [
+      {
+        "kanun": "TCK",
+        "no": "188"
+      }
+    ],
+    "uyuşturucu kullanma": [
+      {
+        "kanun": "TCK",
+        "no": "191"
+      }
+    ],
+    "sahtecilik": [
+      {
+        "kanun": "TCK",
+        "no": "204"
+      }
+    ],
+    "örgüt kurma": [
+      {
+        "kanun": "TCK",
+        "no": "220"
+      }
+    ],
+    "fuhuş": [
+      {
+        "kanun": "TCK",
+        "no": "227"
+      }
+    ],
+    "zimmet": [
+      {
+        "kanun": "TCK",
+        "no": "247"
+      }
+    ],
+    "irtikap": [
+      {
+        "kanun": "TCK",
+        "no": "250"
+      }
+    ],
+    "rüşvet": [
+      {
+        "kanun": "TCK",
+        "no": "252"
+      }
+    ],
+    "görevi köt. kullanma": [
+      {
+        "kanun": "TCK",
+        "no": "257"
+      }
+    ],
+    "iftira": [
+      {
+        "kanun": "TCK",
+        "no": "267"
+      }
+    ],
+    "yalan tanıklık": [
+      {
+        "kanun": "TCK",
+        "no": "272"
+      }
+    ],
+    "görev": [
+      {
+        "kanun": "CMK",
+        "no": "3"
+      },
+      {
+        "kanun": "HMK",
+        "no": "1"
+      },
+      {
+        "kanun": "CMK Yür.",
+        "no": "4"
+      },
+      {
+        "kanun": "İş Mah. K.",
+        "no": "5"
+      }
+    ],
+    "yetki": [
+      {
+        "kanun": "CMK",
+        "no": "12"
+      },
+      {
+        "kanun": "HMK",
+        "no": "5"
+      },
+      {
+        "kanun": "İİK",
+        "no": "50"
+      },
+      {
+        "kanun": "İş Mah. K.",
+        "no": "6"
+      },
+      {
+        "kanun": "İYUK",
+        "no": "32"
+      }
+    ],
+    "hakimin yasaklılığı": [
+      {
+        "kanun": "CMK",
+        "no": "22"
+      },
+      {
+        "kanun": "HMK",
+        "no": "34"
+      }
+    ],
+    "hakimin reddi": [
+      {
+        "kanun": "CMK",
+        "no": "24"
+      },
+      {
+        "kanun": "HMK",
+        "no": "36"
+      }
+    ],
+    "tanıklık": [
+      {
+        "kanun": "CMK",
+        "no": "43"
+      }
+    ],
+    "tanıklıktan çekinme": [
+      {
+        "kanun": "CMK",
+        "no": "45"
+      }
+    ],
+    "tanığa yemin": [
+      {
+        "kanun": "CMK",
+        "no": "50"
+      }
+    ],
+    "bilirkişi incelemesi": [
+      {
+        "kanun": "CMK",
+        "no": "62"
+      }
+    ],
+    "gözlem altına alma": [
+      {
+        "kanun": "CMK",
+        "no": "74"
+      }
+    ],
+    "beden muayenesi": [
+      {
+        "kanun": "CMK",
+        "no": "75"
+      }
+    ],
+    "moleküler genetik inceleme": [
+      {
+        "kanun": "CMK",
+        "no": "78"
+      }
+    ],
+    "fizik kimliğin tespiti": [
+      {
+        "kanun": "CMK",
+        "no": "81"
+      }
+    ],
+    "keşif": [
+      {
+        "kanun": "CMK",
+        "no": "83"
+      },
+      {
+        "kanun": "HMK",
+        "no": "288"
+      }
+    ],
+    "yer gösterme": [
+      {
+        "kanun": "CMK",
+        "no": "85"
+      },
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "28"
+      }
+    ],
+    "otopsi": [
+      {
+        "kanun": "CMK",
+        "no": "87"
+      }
+    ],
+    "yakalama": [
+      {
+        "kanun": "CMK",
+        "no": "90"
+      }
+    ],
+    "gözaltı": [
+      {
+        "kanun": "CMK",
+        "no": "91"
+      },
+      {
+        "kanun": "ÇKK",
+        "no": "16"
+      }
+    ],
+    "tutuklama": [
+      {
+        "kanun": "CMK",
+        "no": "100"
+      }
+    ],
+    "adli kontrol": [
+      {
+        "kanun": "CMK",
+        "no": "109"
+      }
+    ],
+    "arama ve elkoyma": [
+      {
+        "kanun": "CMK",
+        "no": "116"
+      },
+      {
+        "kanun": "KaçMK",
+        "no": "9"
+      }
+    ],
+    "iletişimin tespiti": [
+      {
+        "kanun": "CMK",
+        "no": "135"
+      }
+    ],
+    "gizli soruşturmacı": [
+      {
+        "kanun": "CMK",
+        "no": "139"
+      }
+    ],
+    "teknik araçlarla izleme": [
+      {
+        "kanun": "CMK",
+        "no": "140"
+      }
+    ],
+    "tazminat": [
+      {
+        "kanun": "CMK",
+        "no": "141"
+      }
+    ],
+    "zorla getirme": [
+      {
+        "kanun": "CMK",
+        "no": "146"
+      }
+    ],
+    "ihbar ve şikayet": [
+      {
+        "kanun": "CMK",
+        "no": "158"
+      }
+    ],
+    "iddianame": [
+      {
+        "kanun": "CMK",
+        "no": "170"
+      }
+    ],
+    "KYOK-takipsizlik": [
+      {
+        "kanun": "CMK",
+        "no": "172"
+      }
+    ],
+    "iddianamenin iadesi": [
+      {
+        "kanun": "CMK",
+        "no": "174"
+      }
+    ],
+    "duruşma": [
+      {
+        "kanun": "CMK",
+        "no": "182"
+      },
+      {
+        "kanun": "HMK",
+        "no": "147"
+      },
+      {
+        "kanun": "ÇKK",
+        "no": "22"
+      },
+      {
+        "kanun": "İYUK",
+        "no": "17"
+      }
+    ],
+    "hüküm": [
+      {
+        "kanun": "CMK",
+        "no": "223"
+      },
+      {
+        "kanun": "HMK",
+        "no": "294"
+      }
+    ],
+    "ek savunma": [
+      {
+        "kanun": "CMK",
+        "no": "226"
+      }
+    ],
+    "HAGB": [
+      {
+        "kanun": "CMK",
+        "no": "231"
+      },
+      {
+        "kanun": "ÇKK",
+        "no": "23"
+      }
+    ],
+    "katılma": [
+      {
+        "kanun": "CMK",
+        "no": "237"
+      },
+      {
+        "kanun": "KaçMK",
+        "no": "18"
+      }
+    ],
+    "gaiplerin yargılanması": [
+      {
+        "kanun": "CMK",
+        "no": "244"
+      }
+    ],
+    "seri muhakeme": [
+      {
+        "kanun": "CMK",
+        "no": "250"
+      }
+    ],
+    "basit yargılama": [
+      {
+        "kanun": "CMK",
+        "no": "251"
+      },
+      {
+        "kanun": "HMK",
+        "no": "316"
+      }
+    ],
+    "uzlaştırma": [
+      {
+        "kanun": "CMK",
+        "no": "253"
+      }
+    ],
+    "kanun yolları": [
+      {
+        "kanun": "CMK",
+        "no": "260"
+      },
+      {
+        "kanun": "İİK",
+        "no": "363"
+      },
+      {
+        "kanun": "İYUK",
+        "no": "45"
+      }
+    ],
+    "itiraz": [
+      {
+        "kanun": "CMK",
+        "no": "267"
+      },
+      {
+        "kanun": "CMK Yür.",
+        "no": "7"
+      },
+      {
+        "kanun": "4483",
+        "no": "9"
+      }
+    ],
+    "istinaf": [
+      {
+        "kanun": "CMK",
+        "no": "272"
+      },
+      {
+        "kanun": "HMK",
+        "no": "341"
+      },
+      {
+        "kanun": "İYUK",
+        "no": "45"
+      }
+    ],
+    "temyiz": [
+      {
+        "kanun": "CMK",
+        "no": "286"
+      },
+      {
+        "kanun": "HMK",
+        "no": "361"
+      },
+      {
+        "kanun": "İYUK",
+        "no": "46"
+      }
+    ],
+    "kanun yararına bozma": [
+      {
+        "kanun": "CMK",
+        "no": "309"
+      }
+    ],
+    "yargılamanın yenilenmesi": [
+      {
+        "kanun": "CMK",
+        "no": "311"
+      },
+      {
+        "kanun": "İYUK",
+        "no": "53"
+      }
+    ],
+    "yargılama giderleri": [
+      {
+        "kanun": "CMK",
+        "no": "324"
+      },
+      {
+        "kanun": "HMK",
+        "no": "323"
+      }
+    ],
+    "adli tatil": [
+      {
+        "kanun": "CMK",
+        "no": "331"
+      },
+      {
+        "kanun": "HMK",
+        "no": "102"
+      },
+      {
+        "kanun": "İYUK",
+        "no": "61"
+      },
+      {
+        "kanun": "Danıştay K.",
+        "no": "86"
+      }
+    ],
+    "yetki sözleşmesi": [
+      {
+        "kanun": "HMK",
+        "no": "18"
+      }
+    ],
+    "görevsizlik kararı": [
+      {
+        "kanun": "HMK",
+        "no": "20"
+      }
+    ],
+    "taraf ehliyeti": [
+      {
+        "kanun": "HMK",
+        "no": "50"
+      }
+    ],
+    "dava ehliyeti": [
+      {
+        "kanun": "HMK",
+        "no": "51"
+      }
+    ],
+    "dava arkadaşlığı": [
+      {
+        "kanun": "HMK",
+        "no": "57"
+      }
+    ],
+    "vekalet": [
+      {
+        "kanun": "HMK",
+        "no": "71"
+      }
+    ],
+    "teminat": [
+      {
+        "kanun": "HMK",
+        "no": "84"
+      }
+    ],
+    "süreler": [
+      {
+        "kanun": "HMK",
+        "no": "90"
+      },
+      {
+        "kanun": "İİK",
+        "no": "19"
+      },
+      {
+        "kanun": "İYUK",
+        "no": "7"
+      },
+      {
+        "kanun": "VUK",
+        "no": "14"
+      }
+    ],
+    "eski hale getirme": [
+      {
+        "kanun": "HMK",
+        "no": "95"
+      }
+    ],
+    "dava türleri": [
+      {
+        "kanun": "HMK",
+        "no": "105"
+      }
+    ],
+    "tespit davası": [
+      {
+        "kanun": "HMK",
+        "no": "106"
+      }
+    ],
+    "kısmi dava": [
+      {
+        "kanun": "HMK",
+        "no": "109"
+      },
+      {
+        "kanun": "AAÜT",
+        "no": "8"
+      }
+    ],
+    "dava şartları": [
+      {
+        "kanun": "HMK",
+        "no": "114"
+      }
+    ],
+    "ilk itirazlar": [
+      {
+        "kanun": "HMK",
+        "no": "116"
+      }
+    ],
+    "davanın açılması": [
+      {
+        "kanun": "HMK",
+        "no": "118"
+      }
+    ],
+    "dava dilekçesi": [
+      {
+        "kanun": "HMK",
+        "no": "119"
+      }
+    ],
+    "harç": [
+      {
+        "kanun": "HMK",
+        "no": "120"
+      }
+    ],
+    "gider avansı": [
+      {
+        "kanun": "HMK",
+        "no": "120"
+      }
+    ],
+    "cevap dilekçesi": [
+      {
+        "kanun": "HMK",
+        "no": "126"
+      }
+    ],
+    "ön inceleme": [
+      {
+        "kanun": "HMK",
+        "no": "137"
+      },
+      {
+        "kanun": "4483",
+        "no": "5"
+      }
+    ],
+    "tahkikat": [
+      {
+        "kanun": "HMK",
+        "no": "143"
+      }
+    ],
+    "ön sorun": [
+      {
+        "kanun": "HMK",
+        "no": "163"
+      }
+    ],
+    "bekletici mesele": [
+      {
+        "kanun": "HMK",
+        "no": "165"
+      }
+    ],
+    "birleştirme": [
+      {
+        "kanun": "HMK",
+        "no": "166"
+      }
+    ],
+    "isticvap": [
+      {
+        "kanun": "HMK",
+        "no": "169"
+      }
+    ],
+    "ıslah": [
+      {
+        "kanun": "HMK",
+        "no": "176"
+      }
+    ],
+    "sözlü yargılama": [
+      {
+        "kanun": "HMK",
+        "no": "186"
+      }
+    ],
+    "ispat ve deliller": [
+      {
+        "kanun": "HMK",
+        "no": "187"
+      }
+    ],
+    "senet": [
+      {
+        "kanun": "HMK",
+        "no": "199"
+      }
+    ],
+    "sahtelik incelemesi": [
+      {
+        "kanun": "HMK",
+        "no": "211"
+      }
+    ],
+    "yemin": [
+      {
+        "kanun": "HMK",
+        "no": "225"
+      }
+    ],
+    "tanık": [
+      {
+        "kanun": "HMK",
+        "no": "240"
+      }
+    ],
+    "bilirkişi": [
+      {
+        "kanun": "HMK",
+        "no": "266"
+      }
+    ],
+    "tavzih ve tashih": [
+      {
+        "kanun": "HMK",
+        "no": "304"
+      }
+    ],
+    "feragat": [
+      {
+        "kanun": "HMK",
+        "no": "307"
+      },
+      {
+        "kanun": "AAÜT",
+        "no": "6"
+      }
+    ],
+    "kabul": [
+      {
+        "kanun": "HMK",
+        "no": "308"
+      },
+      {
+        "kanun": "AAÜT",
+        "no": "6"
+      }
+    ],
+    "sulh": [
+      {
+        "kanun": "HMK",
+        "no": "313"
+      },
+      {
+        "kanun": "AAÜT",
+        "no": "6"
+      }
+    ],
+    "adli yardım": [
+      {
+        "kanun": "HMK",
+        "no": "334"
+      },
+      {
+        "kanun": "Avukatlık K.",
+        "no": "176"
+      }
+    ],
+    "yargılamanın iadesi": [
+      {
+        "kanun": "HMK",
+        "no": "374"
+      }
+    ],
+    "çekişmesiz yargı": [
+      {
+        "kanun": "HMK",
+        "no": "382"
+      }
+    ],
+    "ihtiyati tedbir": [
+      {
+        "kanun": "HMK",
+        "no": "389"
+      }
+    ],
+    "delil tespiti": [
+      {
+        "kanun": "HMK",
+        "no": "400"
+      }
+    ],
+    "tahkim": [
+      {
+        "kanun": "HMK",
+        "no": "407"
+      },
+      {
+        "kanun": "AAÜT",
+        "no": "17"
+      }
+    ],
+    "para cezalarının artırılması": [
+      {
+        "kanun": "TCK Yür.",
+        "no": "4"
+      }
+    ],
+    "ağır para cezasının dönüştürülmesi": [
+      {
+        "kanun": "TCK Yür.",
+        "no": "5"
+      }
+    ],
+    "ağır hapis cezasının dönüştürülmesi": [
+      {
+        "kanun": "TCK Yür.",
+        "no": "6"
+      }
+    ],
+    "hafif hapis cezasının dönüştürülmesi": [
+      {
+        "kanun": "TCK Yür.",
+        "no": "7"
+      }
+    ],
+    "hafif para cezalarının dönüştürülmesi": [
+      {
+        "kanun": "TCK Yür.",
+        "no": "7"
+      }
+    ],
+    "Türk lirasının kullanılması": [
+      {
+        "kanun": "TCK Yür.",
+        "no": "8"
+      }
+    ],
+    "lehe yasa uygulaması usulü": [
+      {
+        "kanun": "TCK Yür.",
+        "no": "9"
+      }
+    ],
+    "infaz ertelemesi ve durması": [
+      {
+        "kanun": "TCK Yür.",
+        "no": "10"
+      }
+    ],
+    "gıyabi tutuklama kararları": [
+      {
+        "kanun": "CMK Yür.",
+        "no": "5"
+      }
+    ],
+    "temyiz ve karar düzeltme": [
+      {
+        "kanun": "CMK Yür.",
+        "no": "8"
+      }
+    ],
+    "şahsi dava": [
+      {
+        "kanun": "CMK Yür.",
+        "no": "9"
+      }
+    ],
+    "ceza kararnamesi": [
+      {
+        "kanun": "CMK Yür.",
+        "no": "10"
+      }
+    ],
+    "kolluğa bildirim": [
+      {
+        "kanun": "CMK Yür.",
+        "no": "16"
+      }
+    ],
+    "kapalı CİK": [
+      {
+        "kanun": "CGTİHK",
+        "no": "8"
+      }
+    ],
+    "yüksek güv. CİK": [
+      {
+        "kanun": "CGTİHK",
+        "no": "9"
+      }
+    ],
+    "kadın CİK": [
+      {
+        "kanun": "CGTİHK",
+        "no": "10"
+      }
+    ],
+    "çocuk CİK": [
+      {
+        "kanun": "CGTİHK",
+        "no": "11"
+      }
+    ],
+    "açık CİK": [
+      {
+        "kanun": "CGTİHK",
+        "no": "14"
+      }
+    ],
+    "çocuk eğitim evleri": [
+      {
+        "kanun": "CGTİHK",
+        "no": "15"
+      }
+    ],
+    "hastalık ned. erteleme": [
+      {
+        "kanun": "CGTİHK",
+        "no": "16"
+      }
+    ],
+    "çocuğunun hastalığı ned. erteleme": [
+      {
+        "kanun": "CGTİHK",
+        "no": "16/A"
+      }
+    ],
+    "istek üzerine erteleme": [
+      {
+        "kanun": "CGTİHK",
+        "no": "17"
+      }
+    ],
+    "infazın ertelenmesi": [
+      {
+        "kanun": "CGTİHK",
+        "no": "17/A"
+      }
+    ],
+    "infazın durdurulması": [
+      {
+        "kanun": "CGTİHK",
+        "no": "17/A"
+      }
+    ],
+    "yakalama emri": [
+      {
+        "kanun": "CGTİHK",
+        "no": "19"
+      }
+    ],
+    "kuruma alınma ve kayıt": [
+      {
+        "kanun": "CGTİHK",
+        "no": "21"
+      }
+    ],
+    "gözlem ve sınıflandırma": [
+      {
+        "kanun": "CGTİHK",
+        "no": "23"
+      }
+    ],
+    "hükümlülerin çalıştırılası": [
+      {
+        "kanun": "CGTİHK",
+        "no": "29"
+      }
+    ],
+    "iç güvenlik": [
+      {
+        "kanun": "CGTİHK",
+        "no": "33"
+      }
+    ],
+    "arama": [
+      {
+        "kanun": "CGTİHK",
+        "no": "36"
+      },
+      {
+        "kanun": "VUK",
+        "no": "142"
+      }
+    ],
+    "bulundurulabilecek eşyalar": [
+      {
+        "kanun": "CGTİHK",
+        "no": "35"
+      }
+    ],
+    "disiplin cezaları": [
+      {
+        "kanun": "CGTİHK",
+        "no": "37"
+      },
+      {
+        "kanun": "Avukatlık K.",
+        "no": "134"
+      }
+    ],
+    "kınama": [
+      {
+        "kanun": "CGTİHK",
+        "no": "39"
+      }
+    ],
+    "etkinliklere katılmadan alıkoyma": [
+      {
+        "kanun": "CGTİHK",
+        "no": "40"
+      }
+    ],
+    "telefon ve ziyaret yasağı": [
+      {
+        "kanun": "CGTİHK",
+        "no": "42"
+      }
+    ],
+    "ziyaretçi kabul yasağı": [
+      {
+        "kanun": "CGTİHK",
+        "no": "43"
+      }
+    ],
+    "hücre cezası": [
+      {
+        "kanun": "CGTİHK",
+        "no": "44"
+      }
+    ],
+    "disiplin soruşturması": [
+      {
+        "kanun": "CGTİHK",
+        "no": "47"
+      }
+    ],
+    "ödüllendirme": [
+      {
+        "kanun": "CGTİHK",
+        "no": "51"
+      },
+      {
+        "kanun": "3713",
+        "no": "19"
+      }
+    ],
+    "nakil": [
+      {
+        "kanun": "CGTİHK",
+        "no": "53"
+      },
+      {
+        "kanun": "ÇKK",
+        "no": "18"
+      }
+    ],
+    "disiplin nedeniyle nakil": [
+      {
+        "kanun": "CGTİHK",
+        "no": "55"
+      }
+    ],
+    "avukatla görüşme hakkı": [
+      {
+        "kanun": "CGTİHK",
+        "no": "59"
+      }
+    ],
+    "kütüphaneden yararlanma": [
+      {
+        "kanun": "CGTİHK",
+        "no": "61"
+      }
+    ],
+    "telefonla haberleşme": [
+      {
+        "kanun": "CGTİHK",
+        "no": "66"
+      }
+    ],
+    "iyileştirme": [
+      {
+        "kanun": "CGTİHK",
+        "no": "73"
+      }
+    ],
+    "ziyaret": [
+      {
+        "kanun": "CGTİHK",
+        "no": "83"
+      }
+    ],
+    "iyihal değerlendirmesi": [
+      {
+        "kanun": "CGTİHK",
+        "no": "89"
+      }
+    ],
+    "izinler": [
+      {
+        "kanun": "CGTİHK",
+        "no": "92"
+      }
+    ],
+    "cenaze izni": [
+      {
+        "kanun": "CGTİHK",
+        "no": "94"
+      }
+    ],
+    "özel izin": [
+      {
+        "kanun": "CGTİHK",
+        "no": "95"
+      }
+    ],
+    "içtima": [
+      {
+        "kanun": "CGTİHK",
+        "no": "99"
+      },
+      {
+        "kanun": "KabK",
+        "no": "15"
+      }
+    ],
+    "kamuya yararlı işte çalıştırılma": [
+      {
+        "kanun": "CGTİHK",
+        "no": "105"
+      }
+    ],
+    "denetimli serbestlik": [
+      {
+        "kanun": "CGTİHK",
+        "no": "105/A"
+      }
+    ],
+    "adli para cezasının infazı": [
+      {
+        "kanun": "CGTİHK",
+        "no": "106"
+      }
+    ],
+    "koşullu salıverilme": [
+      {
+        "kanun": "CGTİHK",
+        "no": "107"
+      }
+    ],
+    "şartla tahliye": [
+      {
+        "kanun": "CGTİHK",
+        "no": "107"
+      }
+    ],
+    "mükerrirlerin infazı": [
+      {
+        "kanun": "CGTİHK",
+        "no": "108"
+      }
+    ],
+    "özel infaz usulleri": [
+      {
+        "kanun": "CGTİHK",
+        "no": "110"
+      }
+    ],
+    "tutuklama kararının infazı": [
+      {
+        "kanun": "CGTİHK",
+        "no": "111"
+      }
+    ],
+    "tutukluların hakları": [
+      {
+        "kanun": "CGTİHK",
+        "no": "114"
+      }
+    ],
+    "adli süreçteki çocuk": [
+      {
+        "kanun": "ÇKK",
+        "no": "3"
+      }
+    ],
+    "korunmaya ihtiyacı olan çocuk": [
+      {
+        "kanun": "ÇKK",
+        "no": "3"
+      }
+    ],
+    "koruyucu tedbirler": [
+      {
+        "kanun": "ÇKK",
+        "no": "5"
+      }
+    ],
+    "destekleyici tedbirler": [
+      {
+        "kanun": "ÇKK",
+        "no": "5"
+      }
+    ],
+    "yönlendirme tedbirleri": [
+      {
+        "kanun": "ÇKK",
+        "no": "5/A"
+      }
+    ],
+    "koruyucu ve dest. tedbir kararı": [
+      {
+        "kanun": "ÇKK",
+        "no": "7"
+      }
+    ],
+    "tedbirlerde yetki": [
+      {
+        "kanun": "ÇKK",
+        "no": "8"
+      }
+    ],
+    "acil korunma kararı": [
+      {
+        "kanun": "ÇKK",
+        "no": "9"
+      }
+    ],
+    "soruşturma": [
+      {
+        "kanun": "ÇKK",
+        "no": "15"
+      }
+    ],
+    "iştirak hali": [
+      {
+        "kanun": "ÇKK",
+        "no": "17"
+      }
+    ],
+    "kamu davasının açılmasının ertelenmesi": [
+      {
+        "kanun": "ÇKK",
+        "no": "19"
+      }
+    ],
+    "tutuklama yasağı": [
+      {
+        "kanun": "ÇKK",
+        "no": "21"
+      }
+    ],
+    "uzlaşma": [
+      {
+        "kanun": "ÇKK",
+        "no": "24"
+      },
+      {
+        "kanun": "AAÜT",
+        "no": "16"
+      },
+      {
+        "kanun": "VUK",
+        "no": "1"
+      }
+    ],
+    "çocuk mahkemeleri": [
+      {
+        "kanun": "ÇKK",
+        "no": "25"
+      }
+    ],
+    "çocuk hakimleri": [
+      {
+        "kanun": "ÇKK",
+        "no": "28"
+      }
+    ],
+    "çocuk savcılığı": [
+      {
+        "kanun": "ÇKK",
+        "no": "29"
+      }
+    ],
+    "çocuk bürosu": [
+      {
+        "kanun": "ÇKK",
+        "no": "30"
+      }
+    ],
+    "kolluğun çocuk birimi": [
+      {
+        "kanun": "ÇKK",
+        "no": "31"
+      }
+    ],
+    "sosyal inceleme": [
+      {
+        "kanun": "ÇKK",
+        "no": "33"
+      }
+    ],
+    "çocuk teslimi": [
+      {
+        "kanun": "ÇKK",
+        "no": "41/A"
+      }
+    ],
+    "ihmal": [
+      {
+        "kanun": "KabK",
+        "no": "7"
+      }
+    ],
+    "organ veya temsilcinin eylemi": [
+      {
+        "kanun": "KabK",
+        "no": "8"
+      }
+    ],
+    "kast veya taksir": [
+      {
+        "kanun": "KabK",
+        "no": "9"
+      }
+    ],
+    "hukuka uygunluk": [
+      {
+        "kanun": "KabK",
+        "no": "12"
+      }
+    ],
+    "kusuru kaldıran haller": [
+      {
+        "kanun": "KabK",
+        "no": "12"
+      }
+    ],
+    "idari yaptırımlar": [
+      {
+        "kanun": "KabK",
+        "no": "16"
+      }
+    ],
+    "idari para cezası": [
+      {
+        "kanun": "KabK",
+        "no": "17"
+      }
+    ],
+    "mülkiyetin kamuya geçirilmesi": [
+      {
+        "kanun": "KabK",
+        "no": "18"
+      }
+    ],
+    "zamanaşımı/yerine getirmede": [
+      {
+        "kanun": "KabK",
+        "no": "21"
+      }
+    ],
+    "karar verme yetkisi": [
+      {
+        "kanun": "KabK",
+        "no": "22"
+      }
+    ],
+    "idari yaptırım kararı": [
+      {
+        "kanun": "KabK",
+        "no": "25"
+      }
+    ],
+    "kanun yolu": [
+      {
+        "kanun": "KabK",
+        "no": "27"
+      }
+    ],
+    "itiraz yolu": [
+      {
+        "kanun": "KabK",
+        "no": "29"
+      },
+      {
+        "kanun": "AYM K.",
+        "no": "40"
+      }
+    ],
+    "vazgeçme ve kabul": [
+      {
+        "kanun": "KabK",
+        "no": "30"
+      }
+    ],
+    "vekalet ücreti ve masraf": [
+      {
+        "kanun": "KabK",
+        "no": "31"
+      }
+    ],
+    "emre aykırı davranış": [
+      {
+        "kanun": "KabK",
+        "no": "32"
+      }
+    ],
+    "dilencilik": [
+      {
+        "kanun": "KabK",
+        "no": "33"
+      }
+    ],
+    "kumar": [
+      {
+        "kanun": "KabK",
+        "no": "34"
+      }
+    ],
+    "sarhoşluk": [
+      {
+        "kanun": "KabK",
+        "no": "35"
+      }
+    ],
+    "gürültü": [
+      {
+        "kanun": "KabK",
+        "no": "36"
+      }
+    ],
+    "işgal": [
+      {
+        "kanun": "KabK",
+        "no": "38"
+      }
+    ],
+    "tütün mamulü tüketilmesi": [
+      {
+        "kanun": "KabK",
+        "no": "39"
+      }
+    ],
+    "kimliği bildirmeme": [
+      {
+        "kanun": "KabK",
+        "no": "40"
+      }
+    ],
+    "çevreyi kirletme": [
+      {
+        "kanun": "KabK",
+        "no": "41"
+      }
+    ],
+    "afiş asma": [
+      {
+        "kanun": "KabK",
+        "no": "42"
+      }
+    ],
+    "asılsız ihbar": [
+      {
+        "kanun": "KabK",
+        "no": "42/A"
+      }
+    ],
+    "silah taşıma": [
+      {
+        "kanun": "KabK",
+        "no": "43"
+      }
+    ],
+    "tüzel kişilerin sorumluluğu": [
+      {
+        "kanun": "KabK",
+        "no": "43/A"
+      }
+    ],
+    "amaç dışı bıçak taşıma": [
+      {
+        "kanun": "KabK",
+        "no": "43/C"
+      }
+    ],
+    "terör tanımı": [
+      {
+        "kanun": "3713",
+        "no": "1"
+      }
+    ],
+    "terör suçlusu": [
+      {
+        "kanun": "3713",
+        "no": "2"
+      }
+    ],
+    "terör suçları": [
+      {
+        "kanun": "3713",
+        "no": "3"
+      }
+    ],
+    "terör amacıyla işlenen suçlar": [
+      {
+        "kanun": "3713",
+        "no": "4"
+      }
+    ],
+    "cezaların artırılması": [
+      {
+        "kanun": "3713",
+        "no": "5"
+      }
+    ],
+    "terör örgütleri": [
+      {
+        "kanun": "3713",
+        "no": "7"
+      }
+    ],
+    "avukat tayini": [
+      {
+        "kanun": "3713",
+        "no": "15"
+      }
+    ],
+    "koşullu salıverme": [
+      {
+        "kanun": "3713",
+        "no": "17"
+      }
+    ],
+    "infaz": [
+      {
+        "kanun": "3713",
+        "no": "17"
+      }
+    ],
+    "koruma tedbirleri": [
+      {
+        "kanun": "3713",
+        "no": "20"
+      }
+    ],
+    "zararların tazmini": [
+      {
+        "kanun": "3713",
+        "no": "20/A"
+      }
+    ],
+    "yardım": [
+      {
+        "kanun": "3713",
+        "no": "21"
+      }
+    ],
+    "kaçakçılık suçları": [
+      {
+        "kanun": "KaçMK",
+        "no": "3"
+      }
+    ],
+    "etkin pişmanlık": [
+      {
+        "kanun": "KaçMK",
+        "no": "5"
+      }
+    ],
+    "yolcu beraberindeki eşya": [
+      {
+        "kanun": "KaçMK",
+        "no": "6"
+      }
+    ],
+    "nakil aracına elkoyma": [
+      {
+        "kanun": "KaçMK",
+        "no": "10"
+      }
+    ],
+    "muhafaza": [
+      {
+        "kanun": "KaçMK",
+        "no": "11"
+      },
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "8"
+      }
+    ],
+    "kaim değer": [
+      {
+        "kanun": "KaçMK",
+        "no": "15"
+      }
+    ],
+    "tasfiye": [
+      {
+        "kanun": "KaçMK",
+        "no": "16"
+      },
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "16"
+      }
+    ],
+    "kaçak akaryakıtın tasfiyesi": [
+      {
+        "kanun": "KaçMK",
+        "no": "16/A"
+      }
+    ],
+    "silah kullanma yetkisi": [
+      {
+        "kanun": "KaçMK",
+        "no": "22"
+      }
+    ],
+    "ateşli silahı taşıyabilecekler": [
+      {
+        "kanun": "6136",
+        "no": "7"
+      }
+    ],
+    "hatıra veya antika silah": [
+      {
+        "kanun": "6136",
+        "no": "11"
+      }
+    ],
+    "silah ticareti suçu": [
+      {
+        "kanun": "6136",
+        "no": "12"
+      }
+    ],
+    "ruhsatsız silah taşıma ve bulundurma suçu": [
+      {
+        "kanun": "6136",
+        "no": "13"
+      }
+    ],
+    "silahın çocuğun erişeceği şekilde bulundurulması": [
+      {
+        "kanun": "6136",
+        "no": "13/A"
+      }
+    ],
+    "bıçak ticareti": [
+      {
+        "kanun": "6136",
+        "no": "14"
+      }
+    ],
+    "yasak bıçak ve alet taşıma": [
+      {
+        "kanun": "6136",
+        "no": "15"
+      }
+    ],
+    "orman sayılan yerler": [
+      {
+        "kanun": "Orman K.",
+        "no": "1"
+      }
+    ],
+    "ceza hükümleri": [
+      {
+        "kanun": "Orman K.",
+        "no": "91"
+      },
+      {
+        "kanun": "Dernekler K.",
+        "no": "32"
+      },
+      {
+        "kanun": "VUK",
+        "no": "331"
+      }
+    ],
+    "ağaç kesme": [
+      {
+        "kanun": "Orman K.",
+        "no": "91"
+      }
+    ],
+    "fidan ekim sahasını bozma": [
+      {
+        "kanun": "Orman K.",
+        "no": "91"
+      }
+    ],
+    "düşük ve devrikten toplama": [
+      {
+        "kanun": "Orman K.",
+        "no": "91"
+      }
+    ],
+    "testere vs. kullanma": [
+      {
+        "kanun": "Orman K.",
+        "no": "91"
+      }
+    ],
+    "izinsiz maden ocağı açma": [
+      {
+        "kanun": "Orman K.",
+        "no": "92"
+      }
+    ],
+    "hayvan sokmak": [
+      {
+        "kanun": "Orman K.",
+        "no": "95"
+      }
+    ],
+    "köylülere verilen zati eşyanın satılması": [
+      {
+        "kanun": "Orman K.",
+        "no": "98"
+      }
+    ],
+    "taşıma belgesiz nakil": [
+      {
+        "kanun": "Orman K.",
+        "no": "100"
+      }
+    ],
+    "görevi kötüye kullanma": [
+      {
+        "kanun": "Orman K.",
+        "no": "106"
+      }
+    ],
+    "kaçak orman emvali alma, satma": [
+      {
+        "kanun": "Orman K.",
+        "no": "108"
+      }
+    ],
+    "orman yakmak/taksirle": [
+      {
+        "kanun": "Orman K.",
+        "no": "110"
+      }
+    ],
+    "orman yakmak/kasten": [
+      {
+        "kanun": "Orman K.",
+        "no": "110"
+      }
+    ],
+    "trafik işaretleri": [
+      {
+        "kanun": "KTK",
+        "no": "15"
+      }
+    ],
+    "tescil": [
+      {
+        "kanun": "KTK",
+        "no": "19"
+      },
+      {
+        "kanun": "Trafik Yön.",
+        "no": "28"
+      }
+    ],
+    "araç satışı ve devir": [
+      {
+        "kanun": "KTK",
+        "no": "20"
+      }
+    ],
+    "plaka alma-tescil": [
+      {
+        "kanun": "KTK",
+        "no": "21"
+      }
+    ],
+    "araç muayene": [
+      {
+        "kanun": "KTK",
+        "no": "24"
+      }
+    ],
+    "zorunlu gereçler": [
+      {
+        "kanun": "KTK",
+        "no": "31"
+      }
+    ],
+    "araç muayenesi": [
+      {
+        "kanun": "KTK",
+        "no": "34"
+      }
+    ],
+    "sürücü belgeleri": [
+      {
+        "kanun": "KTK",
+        "no": "36"
+      },
+      {
+        "kanun": "Trafik Yön.",
+        "no": "75"
+      }
+    ],
+    "ehliyet": [
+      {
+        "kanun": "KTK",
+        "no": "36"
+      }
+    ],
+    "trafik kuralları": [
+      {
+        "kanun": "KTK",
+        "no": "46"
+      },
+      {
+        "kanun": "Trafik Yön.",
+        "no": "94"
+      }
+    ],
+    "alkollü araç kullanma": [
+      {
+        "kanun": "KTK",
+        "no": "48"
+      }
+    ],
+    "hız kuralları": [
+      {
+        "kanun": "KTK",
+        "no": "50"
+      }
+    ],
+    "dönüş kuralları": [
+      {
+        "kanun": "KTK",
+        "no": "53"
+      }
+    ],
+    "geçme kuralları ve yasakları": [
+      {
+        "kanun": "KTK",
+        "no": "54"
+      }
+    ],
+    "şerit ve takip mesafesi": [
+      {
+        "kanun": "KTK",
+        "no": "56"
+      }
+    ],
+    "kavşaklarda geçiş hakkı": [
+      {
+        "kanun": "KTK",
+        "no": "57"
+      }
+    ],
+    "indirme bindirme kuralları": [
+      {
+        "kanun": "KTK",
+        "no": "58"
+      }
+    ],
+    "duraklama ve parketme": [
+      {
+        "kanun": "KTK",
+        "no": "59"
+      }
+    ],
+    "park yasağı": [
+      {
+        "kanun": "KTK",
+        "no": "61"
+      }
+    ],
+    "yük sınırları": [
+      {
+        "kanun": "KTK",
+        "no": "65"
+      }
+    ],
+    "kış lastiği": [
+      {
+        "kanun": "KTK",
+        "no": "65/A"
+      }
+    ],
+    "bisiklet ve sukuter": [
+      {
+        "kanun": "KTK",
+        "no": "66"
+      }
+    ],
+    "yaya kuralları": [
+      {
+        "kanun": "KTK",
+        "no": "68"
+      }
+    ],
+    "geçiş üstünlüğü": [
+      {
+        "kanun": "KTK",
+        "no": "71"
+      }
+    ],
+    "yüksek sesle müzik": [
+      {
+        "kanun": "KTK",
+        "no": "72"
+      }
+    ],
+    "saygısız araç sürme": [
+      {
+        "kanun": "KTK",
+        "no": "73"
+      }
+    ],
+    "telefonla konuşma": [
+      {
+        "kanun": "KTK",
+        "no": "73"
+      }
+    ],
+    "yayalara ilk geçiş hakkı": [
+      {
+        "kanun": "KTK",
+        "no": "74"
+      }
+    ],
+    "emniyet kemeri takma": [
+      {
+        "kanun": "KTK",
+        "no": "78"
+      }
+    ],
+    "trafik kazaları": [
+      {
+        "kanun": "KTK",
+        "no": "81"
+      },
+      {
+        "kanun": "Trafik Yön.",
+        "no": "152"
+      }
+    ],
+    "asli kusur": [
+      {
+        "kanun": "KTK",
+        "no": "84"
+      }
+    ],
+    "hukuki sorumluluk ve sigorta": [
+      {
+        "kanun": "KTK",
+        "no": "85"
+      }
+    ],
+    "işleten kavramı": [
+      {
+        "kanun": "KTK",
+        "no": "85"
+      }
+    ],
+    "maddi ve manevi tazminat": [
+      {
+        "kanun": "KTK",
+        "no": "90"
+      }
+    ],
+    "zorunlu mali sor. sig.": [
+      {
+        "kanun": "KTK",
+        "no": "91"
+      }
+    ],
+    "ihtiyari mali sor. sig.": [
+      {
+        "kanun": "KTK",
+        "no": "100"
+      }
+    ],
+    "römork": [
+      {
+        "kanun": "KTK",
+        "no": "102"
+      }
+    ],
+    "görev ve yetki": [
+      {
+        "kanun": "KTK",
+        "no": "110"
+      }
+    ],
+    "kovuşturma": [
+      {
+        "kanun": "KTK",
+        "no": "112"
+      }
+    ],
+    "cezaların uygulanması": [
+      {
+        "kanun": "KTK",
+        "no": "114"
+      }
+    ],
+    "para cezalarının ödenmesi": [
+      {
+        "kanun": "KTK",
+        "no": "115"
+      }
+    ],
+    "durdurma ve kimlik sorma": [
+      {
+        "kanun": "PVSK",
+        "no": "4/A"
+      }
+    ],
+    "fotoğraf kaydı": [
+      {
+        "kanun": "PVSK",
+        "no": "5"
+      }
+    ],
+    "parmak izi": [
+      {
+        "kanun": "PVSK",
+        "no": "5"
+      }
+    ],
+    "önleme araması": [
+      {
+        "kanun": "PVSK",
+        "no": "9"
+      }
+    ],
+    "yasak eşya taşıma": [
+      {
+        "kanun": "PVSK",
+        "no": "10"
+      }
+    ],
+    "rahatsız verme": [
+      {
+        "kanun": "PVSK",
+        "no": "11"
+      }
+    ],
+    "kayıp çocukların araştırılması": [
+      {
+        "kanun": "PVSK",
+        "no": "13/A"
+      }
+    ],
+    "gece gürültü yapma": [
+      {
+        "kanun": "PVSK",
+        "no": "14"
+      }
+    ],
+    "zor ve silah kullanma": [
+      {
+        "kanun": "PVSK",
+        "no": "16"
+      }
+    ],
+    "silah kullanma": [
+      {
+        "kanun": "PVSK",
+        "no": "16"
+      }
+    ],
+    "emre itaatsizlik": [
+      {
+        "kanun": "PVSK",
+        "no": "17"
+      }
+    ],
+    "adli görev ve yetkiler": [
+      {
+        "kanun": "PVSK",
+        "no": "6"
+      }
+    ],
+    "teşhis ve yüzleştirme": [
+      {
+        "kanun": "PVSK",
+        "no": "6"
+      }
+    ],
+    "adli sicil bilgilerinin silinmesi": [
+      {
+        "kanun": "AdSK",
+        "no": "9"
+      }
+    ],
+    "arşiv bilgilerinin silinmesi": [
+      {
+        "kanun": "AdSK",
+        "no": "10"
+      }
+    ],
+    "adli sicil ve arşiv bilgilerinin silinmesi": [
+      {
+        "kanun": "AdSK",
+        "no": "12"
+      }
+    ],
+    "sorgulama yetkisi": [
+      {
+        "kanun": "AdSK",
+        "no": "13"
+      }
+    ],
+    "yasaklanmış hakların geri verilmesi": [
+      {
+        "kanun": "AdSK",
+        "no": "13/A"
+      }
+    ],
+    "memnu hakların iadesi": [
+      {
+        "kanun": "AdSK",
+        "no": "13/A"
+      }
+    ],
+    "idari dava türleri": [
+      {
+        "kanun": "İYUK",
+        "no": "2"
+      }
+    ],
+    "amaç": [
+      {
+        "kanun": "DS Kanunu",
+        "no": "1"
+      }
+    ],
+    "kapsam": [
+      {
+        "kanun": "DS Kanunu",
+        "no": "2"
+      }
+    ],
+    "kuruluş ve teşkilat": [
+      {
+        "kanun": "DS Kanunu",
+        "no": "6"
+      }
+    ],
+    "daire başkanlığı": [
+      {
+        "kanun": "DS Kanunu",
+        "no": "8"
+      },
+      {
+        "kanun": "Arabuluculuk K.",
+        "no": "28"
+      }
+    ],
+    "müdürlük": [
+      {
+        "kanun": "DS Kanunu",
+        "no": "10"
+      },
+      {
+        "kanun": "DS Yön.",
+        "no": "10"
+      }
+    ],
+    "koruma kurulları": [
+      {
+        "kanun": "DS Kanunu",
+        "no": "16"
+      }
+    ],
+    "şikayet ve itiraz": [
+      {
+        "kanun": "DS Kanunu",
+        "no": "18"
+      },
+      {
+        "kanun": "DS Yön.",
+        "no": "48"
+      }
+    ],
+    "danışma kurulu": [
+      {
+        "kanun": "DS Kanunu",
+        "no": "19"
+      }
+    ],
+    "gönüllü çalışanlar": [
+      {
+        "kanun": "DS Kanunu",
+        "no": "22"
+      }
+    ],
+    "hukuk mahkemeleri": [
+      {
+        "kanun": "5235",
+        "no": "5"
+      }
+    ],
+    "ceza mahkemeleri": [
+      {
+        "kanun": "5235",
+        "no": "8"
+      }
+    ],
+    "sulh ceza hakimliği": [
+      {
+        "kanun": "5235",
+        "no": "10"
+      }
+    ],
+    "asliye ceza mahkemesinin görevi": [
+      {
+        "kanun": "5235",
+        "no": "11"
+      }
+    ],
+    "ağır ceza mahkemesinin görevi": [
+      {
+        "kanun": "5235",
+        "no": "12"
+      }
+    ],
+    "ceza mahkemeleri yargı çevresi": [
+      {
+        "kanun": "5235",
+        "no": "15"
+      }
+    ],
+    "başsavcılık": [
+      {
+        "kanun": "5235",
+        "no": "16"
+      }
+    ],
+    "başsavcının görevleri": [
+      {
+        "kanun": "5235",
+        "no": "18"
+      }
+    ],
+    "başsavcıvekilinin görevleri": [
+      {
+        "kanun": "5235",
+        "no": "19"
+      }
+    ],
+    "savcının görevleri": [
+      {
+        "kanun": "5235",
+        "no": "20"
+      }
+    ],
+    "savcının yetkisi": [
+      {
+        "kanun": "5235",
+        "no": "21"
+      }
+    ],
+    "duruşmada temsil": [
+      {
+        "kanun": "5235",
+        "no": "22"
+      }
+    ],
+    "adalet komisyonu": [
+      {
+        "kanun": "5235",
+        "no": "23"
+      }
+    ],
+    "yazı işleri müdürlüğü": [
+      {
+        "kanun": "5235",
+        "no": "24"
+      }
+    ],
+    "BAM": [
+      {
+        "kanun": "5235",
+        "no": "25"
+      }
+    ],
+    "BAM görevleri": [
+      {
+        "kanun": "5235",
+        "no": "33"
+      }
+    ],
+    "başkanlar kurulu": [
+      {
+        "kanun": "5235",
+        "no": "35"
+      }
+    ],
+    "hukuk daireleri iş bölümü": [
+      {
+        "kanun": "5235",
+        "no": "35/A"
+      }
+    ],
+    "BAM başkanı ve üyelerin atanması": [
+      {
+        "kanun": "5235",
+        "no": "43"
+      }
+    ],
+    "adli arama": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "5"
+      }
+    ],
+    "makul şüphe": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "6"
+      }
+    ],
+    "adli arama-karar yetkisi": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "7"
+      }
+    ],
+    "karar olmadan yapılabilecek arama": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "8"
+      }
+    ],
+    "olay yeri inceleme": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "9"
+      }
+    ],
+    "aramada başka bir şey bulunması": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "10"
+      }
+    ],
+    "arama tutanağı": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "11"
+      }
+    ],
+    "avukat bürosunda arama": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "13"
+      }
+    ],
+    "askeri mahalde arama": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "14"
+      }
+    ],
+    "elkoyma": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "15"
+      }
+    ],
+    "muhafaza altına alma": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "15"
+      }
+    ],
+    "belge ve kağıtlar": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "16"
+      }
+    ],
+    "bilgisayarda arama": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "17"
+      }
+    ],
+    "önleme aramaları": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "18"
+      }
+    ],
+    "derneklerde arama": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "22"
+      }
+    ],
+    "arama şekli": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "27"
+      }
+    ],
+    "araçlarda arama": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "29"
+      }
+    ],
+    "konut ve işyerinde arama": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "30"
+      }
+    ],
+    "aramanın zamanı": [
+      {
+        "kanun": "Arama Yön.",
+        "no": "31"
+      }
+    ],
+    "adli kolluk görevlendirmesi": [
+      {
+        "kanun": "Adli Kolluk Yön.",
+        "no": "4"
+      }
+    ],
+    "temel esaslar": [
+      {
+        "kanun": "Adli Kolluk Yön.",
+        "no": "5"
+      }
+    ],
+    "görev ve yetkiler": [
+      {
+        "kanun": "Adli Kolluk Yön.",
+        "no": "6"
+      }
+    ],
+    "diğer kolluk birimleri": [
+      {
+        "kanun": "Adli Kolluk Yön.",
+        "no": "7"
+      }
+    ],
+    "nitelikleri": [
+      {
+        "kanun": "Adli Kolluk Yön.",
+        "no": "8"
+      }
+    ],
+    "eğitimi": [
+      {
+        "kanun": "Adli Kolluk Yön.",
+        "no": "9"
+      }
+    ],
+    "değerlendirme raporu": [
+      {
+        "kanun": "Adli Kolluk Yön.",
+        "no": "11"
+      }
+    ],
+    "çalışma esasları": [
+      {
+        "kanun": "Adli Kolluk Yön.",
+        "no": "12"
+      }
+    ],
+    "denetim": [
+      {
+        "kanun": "Adli Kolluk Yön.",
+        "no": "13"
+      },
+      {
+        "kanun": "Dernekler K.",
+        "no": "19"
+      }
+    ],
+    "yakalama ve gözaltı yetkisi": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "5"
+      }
+    ],
+    "yakalama işlemi": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "6"
+      }
+    ],
+    "yakınlarına haber verme": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "8"
+      }
+    ],
+    "sağlık kontrolü": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "9"
+      }
+    ],
+    "güvenlik araması": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "10"
+      }
+    ],
+    "nezarethane işlemleri": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "11"
+      }
+    ],
+    "nezarethane defteri": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "12"
+      }
+    ],
+    "gözaltı süresi": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "13"
+      }
+    ],
+    "gözaltı süresinin uzatılması": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "14"
+      }
+    ],
+    "hakime başvuru": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "15"
+      }
+    ],
+    "mahkemeye sevk": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "16"
+      }
+    ],
+    "sevk/serbest bırakma": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "17"
+      }
+    ],
+    "yeniden yakalama yasağı": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "18"
+      }
+    ],
+    "çocuklarla ilgili özel hüküm": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "19"
+      }
+    ],
+    "müdafi tayini": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "20"
+      }
+    ],
+    "müdafiyle görüşme": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "21"
+      }
+    ],
+    "müdafiin evrak inceleme yetkisi": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "22"
+      }
+    ],
+    "ifade almanın esasları": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "23"
+      }
+    ],
+    "ifadede yasak yöntemler": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "24"
+      }
+    ],
+    "nezarethane": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "25"
+      }
+    ],
+    "nezarethane denetimi": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "26"
+      }
+    ],
+    "gizlilik": [
+      {
+        "kanun": "Yakalama Yön.",
+        "no": "27"
+      }
+    ],
+    "emanet bürosu": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "4"
+      }
+    ],
+    "muhafaza ve elkoyma": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "5"
+      }
+    ],
+    "emanet kayıt işlemi": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "6"
+      }
+    ],
+    "kurumlardan istenilen eşyayı teslim": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "9"
+      }
+    ],
+    "kıymetli eşya": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "10"
+      }
+    ],
+    "bozulacak eşya": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "10"
+      }
+    ],
+    "değerini kaybedecek eşya": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "10"
+      }
+    ],
+    "muhafazası zor eşya": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "10"
+      }
+    ],
+    "eşyanın başka yere gönderimi": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "11"
+      }
+    ],
+    "paranın emanete alınması": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "13"
+      }
+    ],
+    "paranın bankaya yatırılması": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "14"
+      }
+    ],
+    "faiz": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "15"
+      }
+    ],
+    "müsadere veya iade kararı hali": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "17"
+      }
+    ],
+    "tedavülde olmayan paralar": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "18"
+      }
+    ],
+    "kazanç müsaderesi konusu": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "18"
+      }
+    ],
+    "bankadaki paranın müsadere ve iadesi": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "19"
+      }
+    ],
+    "sahipsiz eşyalar": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "21"
+      }
+    ],
+    "satış işlemleri": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "22"
+      }
+    ],
+    "gaip veya ölünün eşyası": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "23"
+      }
+    ],
+    "değersiz eşyanın imhası": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "24"
+      }
+    ],
+    "emanet bürosu kayıtları": [
+      {
+        "kanun": "Suç Eşyası Yön.",
+        "no": "25"
+      }
+    ],
+    "temel ilkeler": [
+      {
+        "kanun": "DS Yön.",
+        "no": "5"
+      }
+    ],
+    "teşkilat": [
+      {
+        "kanun": "DS Yön.",
+        "no": "7"
+      }
+    ],
+    "DS büroları": [
+      {
+        "kanun": "DS Yön.",
+        "no": "12"
+      }
+    ],
+    "personel": [
+      {
+        "kanun": "DS Yön.",
+        "no": "22"
+      }
+    ],
+    "personelin çalışma esasları": [
+      {
+        "kanun": "DS Yön.",
+        "no": "28"
+      }
+    ],
+    "infaz işleri değ. komisyonu": [
+      {
+        "kanun": "DS Yön.",
+        "no": "32"
+      }
+    ],
+    "iyileştirme çalışmaları": [
+      {
+        "kanun": "DS Yön.",
+        "no": "35"
+      }
+    ],
+    "sosyal araştırma raporu": [
+      {
+        "kanun": "DS Yön.",
+        "no": "39"
+      }
+    ],
+    "DS kararlarının icrası": [
+      {
+        "kanun": "DS Yön.",
+        "no": "40"
+      }
+    ],
+    "tebligat": [
+      {
+        "kanun": "DS Yön.",
+        "no": "41"
+      }
+    ],
+    "izin ve nakiller": [
+      {
+        "kanun": "DS Yön.",
+        "no": "43"
+      }
+    ],
+    "uyarılma": [
+      {
+        "kanun": "DS Yön.",
+        "no": "44"
+      }
+    ],
+    "kurumlarla işbirliği": [
+      {
+        "kanun": "DS Yön.",
+        "no": "49"
+      }
+    ],
+    "kararların infazı": [
+      {
+        "kanun": "DS Yön.",
+        "no": "55"
+      }
+    ],
+    "adli kontrol kararlarının infazı": [
+      {
+        "kanun": "DS Yön.",
+        "no": "55"
+      }
+    ],
+    "HAGB kararlarının yerine getirilmesi": [
+      {
+        "kanun": "DS Yön.",
+        "no": "58"
+      }
+    ],
+    "seçenek yaptırımların yerine getirilmesi": [
+      {
+        "kanun": "DS Yön.",
+        "no": "62"
+      }
+    ],
+    "kamuya yararlı işte çalıştırma": [
+      {
+        "kanun": "DS Yön.",
+        "no": "65"
+      }
+    ],
+    "erteleme ilamlarının yerine getirilmesi": [
+      {
+        "kanun": "DS Yön.",
+        "no": "66"
+      }
+    ],
+    "tedavi ve DS tedbirinin yerine getirilmesi": [
+      {
+        "kanun": "DS Yön.",
+        "no": "71"
+      }
+    ],
+    "hak yoksunluklarının yerine getirilmesi": [
+      {
+        "kanun": "DS Yön.",
+        "no": "72"
+      }
+    ],
+    "etkin pişmanlık-yerine getirme": [
+      {
+        "kanun": "DS Yön.",
+        "no": "73"
+      }
+    ],
+    "konutta infaz": [
+      {
+        "kanun": "DS Yön.",
+        "no": "74"
+      }
+    ],
+    "kamuya yararlı işte çalıştırma-APC": [
+      {
+        "kanun": "DS Yön.",
+        "no": "76"
+      }
+    ],
+    "şartla tahliye sonrası denetim": [
+      {
+        "kanun": "DS Yön.",
+        "no": "89"
+      }
+    ],
+    "mükerrirler ve cinsel suçlular": [
+      {
+        "kanun": "DS Yön.",
+        "no": "94"
+      }
+    ],
+    "aile bireylerinin korunması": [
+      {
+        "kanun": "DS Yön.",
+        "no": "95"
+      }
+    ],
+    "elektronik izleme": [
+      {
+        "kanun": "DS Yön.",
+        "no": "97"
+      }
+    ],
+    "elektronik cihaz": [
+      {
+        "kanun": "DS Yön.",
+        "no": "100"
+      }
+    ],
+    "danışma ve koruma kurulları": [
+      {
+        "kanun": "DS Yön.",
+        "no": "104"
+      }
+    ],
+    "icra daireleri": [
+      {
+        "kanun": "İİK",
+        "no": "1"
+      }
+    ],
+    "icra mahkemesi": [
+      {
+        "kanun": "İİK",
+        "no": "4"
+      }
+    ],
+    "harçlar": [
+      {
+        "kanun": "İİK",
+        "no": "15"
+      }
+    ],
+    "ilamların icrası": [
+      {
+        "kanun": "İİK",
+        "no": "24"
+      }
+    ],
+    "para alacakları-ilamlı icra": [
+      {
+        "kanun": "İİK",
+        "no": "32"
+      }
+    ],
+    "tehiri icra": [
+      {
+        "kanun": "İİK",
+        "no": "36"
+      }
+    ],
+    "icranın geri bırakılması": [
+      {
+        "kanun": "İİK",
+        "no": "36"
+      }
+    ],
+    "icranın iadesi": [
+      {
+        "kanun": "İİK",
+        "no": "40"
+      }
+    ],
+    "takip talebi": [
+      {
+        "kanun": "İİK",
+        "no": "58"
+      }
+    ],
+    "ödeme emri": [
+      {
+        "kanun": "İİK",
+        "no": "60"
+      }
+    ],
+    "ödeme emrine itiraz": [
+      {
+        "kanun": "İİK",
+        "no": "62"
+      }
+    ],
+    "gecikmiş itiraz": [
+      {
+        "kanun": "İİK",
+        "no": "65"
+      }
+    ],
+    "itirazın iptali": [
+      {
+        "kanun": "İİK",
+        "no": "67"
+      }
+    ],
+    "itirazın kesin kaldırılması": [
+      {
+        "kanun": "İİK",
+        "no": "68"
+      }
+    ],
+    "itirazın geçici kaldırılması": [
+      {
+        "kanun": "İİK",
+        "no": "68/a"
+      }
+    ],
+    "menfi tespit ve istirdat": [
+      {
+        "kanun": "İİK",
+        "no": "72"
+      }
+    ],
+    "haciz yoluyla takip": [
+      {
+        "kanun": "İİK",
+        "no": "74"
+      }
+    ],
+    "konutta haciz": [
+      {
+        "kanun": "İİK",
+        "no": "79/a"
+      }
+    ],
+    "haczedilemeyen mallar": [
+      {
+        "kanun": "İİK",
+        "no": "82"
+      }
+    ],
+    "haciz ihbarnamesi": [
+      {
+        "kanun": "İİK",
+        "no": "89"
+      }
+    ],
+    "istihkak": [
+      {
+        "kanun": "İİK",
+        "no": "96"
+      }
+    ],
+    "hacze iştirak": [
+      {
+        "kanun": "İİK",
+        "no": "100"
+      }
+    ],
+    "haciz tutanağı": [
+      {
+        "kanun": "İİK",
+        "no": "102"
+      }
+    ],
+    "taksitle ödeme": [
+      {
+        "kanun": "İİK",
+        "no": "111"
+      }
+    ],
+    "taşınırların satışı": [
+      {
+        "kanun": "İİK",
+        "no": "112"
+      }
+    ],
+    "kıymet takdirine şikayet": [
+      {
+        "kanun": "İİK",
+        "no": "128/a"
+      }
+    ],
+    "ihalenin feshi": [
+      {
+        "kanun": "İİK",
+        "no": "134"
+      }
+    ],
+    "sıra cetveli": [
+      {
+        "kanun": "İİK",
+        "no": "140"
+      }
+    ],
+    "borç ödemeden aciz vesikası": [
+      {
+        "kanun": "İİK",
+        "no": "143"
+      }
+    ],
+    "taşınır rehninin paraya çevrilmesi": [
+      {
+        "kanun": "İİK",
+        "no": "145"
+      }
+    ],
+    "ipoteğin paraya çevrilmesi": [
+      {
+        "kanun": "İİK",
+        "no": "148"
+      }
+    ],
+    "iflas yoluyla takip": [
+      {
+        "kanun": "İİK",
+        "no": "154"
+      }
+    ],
+    "kambiyo senetlerine dayanan takip": [
+      {
+        "kanun": "İİK",
+        "no": "167"
+      }
+    ],
+    "ihtiyati haciz": [
+      {
+        "kanun": "İİK",
+        "no": "257"
+      }
+    ],
+    "kiralanan taşınmazın tahliyesi": [
+      {
+        "kanun": "İİK",
+        "no": "269"
+      }
+    ],
+    "tasarrufun iptali": [
+      {
+        "kanun": "İİK",
+        "no": "277"
+      }
+    ],
+    "konkordato": [
+      {
+        "kanun": "İİK",
+        "no": "285"
+      }
+    ],
+    "cezai hükümler": [
+      {
+        "kanun": "İİK",
+        "no": "331"
+      },
+      {
+        "kanun": "Tebligat K.",
+        "no": "52"
+      }
+    ],
+    "maaş ve ücret haczi": [
+      {
+        "kanun": "İİK",
+        "no": "355"
+      }
+    ],
+    "hak ehliyeti": [
+      {
+        "kanun": "TMK",
+        "no": "8"
+      }
+    ],
+    "fiil ehliyeti": [
+      {
+        "kanun": "TMK",
+        "no": "9"
+      }
+    ],
+    "adın değiştirilmesi": [
+      {
+        "kanun": "TMK",
+        "no": "27"
+      }
+    ],
+    "ölüm karinesi": [
+      {
+        "kanun": "TMK",
+        "no": "31"
+      }
+    ],
+    "gaiplik": [
+      {
+        "kanun": "TMK",
+        "no": "32"
+      }
+    ],
+    "tüzel kişilik": [
+      {
+        "kanun": "TMK",
+        "no": "47"
+      }
+    ],
+    "dernekler": [
+      {
+        "kanun": "TMK",
+        "no": "56"
+      }
+    ],
+    "vakıflar": [
+      {
+        "kanun": "TMK",
+        "no": "101"
+      }
+    ],
+    "aile hukuku": [
+      {
+        "kanun": "TMK",
+        "no": "118"
+      }
+    ],
+    "nişanlanma": [
+      {
+        "kanun": "TMK",
+        "no": "118"
+      }
+    ],
+    "evlenme": [
+      {
+        "kanun": "TMK",
+        "no": "124"
+      }
+    ],
+    "evlenmenin butlanı": [
+      {
+        "kanun": "TMK",
+        "no": "145"
+      }
+    ],
+    "boşanma": [
+      {
+        "kanun": "TMK",
+        "no": "161"
+      }
+    ],
+    "zina": [
+      {
+        "kanun": "TMK",
+        "no": "161"
+      }
+    ],
+    "terk": [
+      {
+        "kanun": "TMK",
+        "no": "164"
+      }
+    ],
+    "şiddetli geçimsizlik": [
+      {
+        "kanun": "TMK",
+        "no": "166"
+      }
+    ],
+    "evlilik birliğinin sarsılması": [
+      {
+        "kanun": "TMK",
+        "no": "166"
+      }
+    ],
+    "anlaşmalı boşanma": [
+      {
+        "kanun": "TMK",
+        "no": "166"
+      }
+    ],
+    "yoksulluk nafakası": [
+      {
+        "kanun": "TMK",
+        "no": "175"
+      }
+    ],
+    "evliliğin genel hükümleri": [
+      {
+        "kanun": "TMK",
+        "no": "185"
+      }
+    ],
+    "aile konutu": [
+      {
+        "kanun": "TMK",
+        "no": "194"
+      }
+    ],
+    "mal rejimleri": [
+      {
+        "kanun": "TMK",
+        "no": "202"
+      }
+    ],
+    "edinilmiş mallara katılma": [
+      {
+        "kanun": "TMK",
+        "no": "218"
+      }
+    ],
+    "hısımlık": [
+      {
+        "kanun": "TMK",
+        "no": "282"
+      }
+    ],
+    "soybağının kurulması": [
+      {
+        "kanun": "TMK",
+        "no": "282"
+      }
+    ],
+    "tanıma ve babalık": [
+      {
+        "kanun": "TMK",
+        "no": "295"
+      }
+    ],
+    "evlat edinme": [
+      {
+        "kanun": "TMK",
+        "no": "305"
+      }
+    ],
+    "soybağı": [
+      {
+        "kanun": "TMK",
+        "no": "321"
+      }
+    ],
+    "velayet": [
+      {
+        "kanun": "TMK",
+        "no": "335"
+      }
+    ],
+    "çocuk malları": [
+      {
+        "kanun": "TMK",
+        "no": "352"
+      }
+    ],
+    "nafaka yükümlülüğü": [
+      {
+        "kanun": "TMK",
+        "no": "364"
+      }
+    ],
+    "vesayet": [
+      {
+        "kanun": "TMK",
+        "no": "396"
+      }
+    ],
+    "kayyımlık": [
+      {
+        "kanun": "TMK",
+        "no": "426"
+      }
+    ],
+    "yasal danışmanlık": [
+      {
+        "kanun": "TMK",
+        "no": "426"
+      }
+    ],
+    "miras hukuku": [
+      {
+        "kanun": "TMK",
+        "no": "495"
+      }
+    ],
+    "vasiyet": [
+      {
+        "kanun": "TMK",
+        "no": "502"
+      },
+      {
+        "kanun": "TMK",
+        "no": "531"
+      }
+    ],
+    "miras sözleşmesi": [
+      {
+        "kanun": "TMK",
+        "no": "503"
+      }
+    ],
+    "saklı pay oranları": [
+      {
+        "kanun": "TMK",
+        "no": "506"
+      }
+    ],
+    "mirasçı atama": [
+      {
+        "kanun": "TMK",
+        "no": "516"
+      }
+    ],
+    "tenkis": [
+      {
+        "kanun": "TMK",
+        "no": "557"
+      }
+    ],
+    "mirasın açılması": [
+      {
+        "kanun": "TMK",
+        "no": "575"
+      }
+    ],
+    "eşya hukuku": [
+      {
+        "kanun": "TMK",
+        "no": "683"
+      }
+    ],
+    "taşınmaz mülkiyeti": [
+      {
+        "kanun": "TMK",
+        "no": "704"
+      }
+    ],
+    "önalım hakkı": [
+      {
+        "kanun": "TMK",
+        "no": "732"
+      }
+    ],
+    "zorunlu geçit": [
+      {
+        "kanun": "TMK",
+        "no": "747"
+      }
+    ],
+    "taşınır mülkiyeti": [
+      {
+        "kanun": "TMK",
+        "no": "762"
+      }
+    ],
+    "taşınmaz rehni": [
+      {
+        "kanun": "TMK",
+        "no": "850"
+      }
+    ],
+    "ipotek": [
+      {
+        "kanun": "TMK",
+        "no": "881"
+      }
+    ],
+    "taşınır rehni": [
+      {
+        "kanun": "TMK",
+        "no": "939"
+      }
+    ],
+    "zilyetlik": [
+      {
+        "kanun": "TMK",
+        "no": "973"
+      }
+    ],
+    "tapu sicili": [
+      {
+        "kanun": "TMK",
+        "no": "997"
+      }
+    ],
+    "muvazaa": [
+      {
+        "kanun": "TBK",
+        "no": "19"
+      }
+    ],
+    "genel işlem koşulları": [
+      {
+        "kanun": "TBK",
+        "no": "20"
+      }
+    ],
+    "sözleşme özgürlüğü": [
+      {
+        "kanun": "TBK",
+        "no": "26"
+      }
+    ],
+    "butlan": [
+      {
+        "kanun": "TBK",
+        "no": "27"
+      }
+    ],
+    "hükümsüzlük": [
+      {
+        "kanun": "TBK",
+        "no": "27"
+      }
+    ],
+    "kesin hükümsüzlük": [
+      {
+        "kanun": "TBK",
+        "no": "27"
+      }
+    ],
+    "aşırı yararlanma": [
+      {
+        "kanun": "TBK",
+        "no": "28"
+      }
+    ],
+    "gabin": [
+      {
+        "kanun": "TBK",
+        "no": "28"
+      }
+    ],
+    "yanılma": [
+      {
+        "kanun": "TBK",
+        "no": "30"
+      }
+    ],
+    "aldatma": [
+      {
+        "kanun": "TBK",
+        "no": "36"
+      }
+    ],
+    "ikrah": [
+      {
+        "kanun": "TBK",
+        "no": "36"
+      }
+    ],
+    "haksız fiiller": [
+      {
+        "kanun": "TBK",
+        "no": "49"
+      }
+    ],
+    "adam çalıştıran": [
+      {
+        "kanun": "TBK",
+        "no": "66"
+      }
+    ],
+    "sebepsiz zenginleşme": [
+      {
+        "kanun": "TBK",
+        "no": "77"
+      }
+    ],
+    "ifa": [
+      {
+        "kanun": "TBK",
+        "no": "83"
+      }
+    ],
+    "ifa etmemenin sonuçları": [
+      {
+        "kanun": "TBK",
+        "no": "112"
+      }
+    ],
+    "munzam zarar": [
+      {
+        "kanun": "TBK",
+        "no": "122"
+      }
+    ],
+    "halefiyet": [
+      {
+        "kanun": "TBK",
+        "no": "127"
+      }
+    ],
+    "ibra": [
+      {
+        "kanun": "TBK",
+        "no": "132"
+      }
+    ],
+    "aşırı ifa güçlüğü": [
+      {
+        "kanun": "TBK",
+        "no": "138"
+      }
+    ],
+    "teselsül": [
+      {
+        "kanun": "TBK",
+        "no": "162"
+      }
+    ],
+    "kaparo-bağlanma parası": [
+      {
+        "kanun": "TBK",
+        "no": "177"
+      }
+    ],
+    "cayma parası": [
+      {
+        "kanun": "TBK",
+        "no": "178"
+      }
+    ],
+    "alacağın devri": [
+      {
+        "kanun": "TBK",
+        "no": "183"
+      }
+    ],
+    "borcun üstlenilmesi": [
+      {
+        "kanun": "TBK",
+        "no": "195"
+      }
+    ],
+    "satış sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "207"
+      }
+    ],
+    "taşınmaz satışı": [
+      {
+        "kanun": "TBK",
+        "no": "237"
+      }
+    ],
+    "trampa": [
+      {
+        "kanun": "TBK",
+        "no": "282"
+      }
+    ],
+    "bağışlama": [
+      {
+        "kanun": "TBK",
+        "no": "285"
+      }
+    ],
+    "kira sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "299"
+      }
+    ],
+    "konut ve çatılı işyeri kiraları": [
+      {
+        "kanun": "TBK",
+        "no": "339"
+      }
+    ],
+    "kira bedeli": [
+      {
+        "kanun": "TBK",
+        "no": "343"
+      }
+    ],
+    "ödünç sözleşmeleri": [
+      {
+        "kanun": "TBK",
+        "no": "379"
+      }
+    ],
+    "pazarlamacılık sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "448"
+      }
+    ],
+    "eser sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "470"
+      }
+    ],
+    "yayım sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "487"
+      }
+    ],
+    "vekalet sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "502"
+      }
+    ],
+    "simsarlık sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "520"
+      }
+    ],
+    "vekaletsiz iş görme": [
+      {
+        "kanun": "TBK",
+        "no": "526"
+      }
+    ],
+    "komisyon sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "532"
+      }
+    ],
+    "havale": [
+      {
+        "kanun": "TBK",
+        "no": "555"
+      }
+    ],
+    "saklama sözleşmeleri": [
+      {
+        "kanun": "TBK",
+        "no": "561"
+      }
+    ],
+    "kefalet sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "581"
+      }
+    ],
+    "kumar ve bahis": [
+      {
+        "kanun": "TBK",
+        "no": "604"
+      }
+    ],
+    "ömür boyu gelir sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "607"
+      }
+    ],
+    "ölünceye kadar bakma sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "611"
+      }
+    ],
+    "adi ortaklık sözleşmesi": [
+      {
+        "kanun": "TBK",
+        "no": "620"
+      }
+    ],
+    "arabuluculuk": [
+      {
+        "kanun": "TTK",
+        "no": "5/A"
+      },
+      {
+        "kanun": "İş Mah. K.",
+        "no": "3"
+      },
+      {
+        "kanun": "AAÜT",
+        "no": "16"
+      }
+    ],
+    "ticari davalar": [
+      {
+        "kanun": "TTK",
+        "no": "5"
+      }
+    ],
+    "ticari işletme": [
+      {
+        "kanun": "TTK",
+        "no": "11"
+      }
+    ],
+    "ticaret sicili": [
+      {
+        "kanun": "TTK",
+        "no": "24"
+      }
+    ],
+    "haksız rekabet": [
+      {
+        "kanun": "TTK",
+        "no": "54"
+      }
+    ],
+    "ticari defterler": [
+      {
+        "kanun": "TTK",
+        "no": "64"
+      }
+    ],
+    "cari hesap": [
+      {
+        "kanun": "TTK",
+        "no": "89"
+      }
+    ],
+    "acentelik": [
+      {
+        "kanun": "TTK",
+        "no": "102"
+      }
+    ],
+    "ticaret şirketleri": [
+      {
+        "kanun": "TTK",
+        "no": "124"
+      }
+    ],
+    "kollektif şirket": [
+      {
+        "kanun": "TTK",
+        "no": "211"
+      }
+    ],
+    "komandit şirket": [
+      {
+        "kanun": "TTK",
+        "no": "304"
+      }
+    ],
+    "anonim şirket": [
+      {
+        "kanun": "TTK",
+        "no": "329"
+      }
+    ],
+    "A.Ş. genel kurulu": [
+      {
+        "kanun": "TTK",
+        "no": "407"
+      }
+    ],
+    "A.Ş. Yönetim kurulu": [
+      {
+        "kanun": "TTK",
+        "no": "359"
+      }
+    ],
+    "limited şirket": [
+      {
+        "kanun": "TTK",
+        "no": "573"
+      }
+    ],
+    "kıymetli evrak": [
+      {
+        "kanun": "TTK",
+        "no": "645"
+      }
+    ],
+    "nama yazılı senetler": [
+      {
+        "kanun": "TTK",
+        "no": "654"
+      }
+    ],
+    "hamile yazılı senetler": [
+      {
+        "kanun": "TTK",
+        "no": "658"
+      }
+    ],
+    "kambiyo senetleri": [
+      {
+        "kanun": "TTK",
+        "no": "670"
+      }
+    ],
+    "poliçe": [
+      {
+        "kanun": "TTK",
+        "no": "671"
+      }
+    ],
+    "bono": [
+      {
+        "kanun": "TTK",
+        "no": "776"
+      }
+    ],
+    "emre yazılı senet": [
+      {
+        "kanun": "TTK",
+        "no": "776"
+      }
+    ],
+    "çek": [
+      {
+        "kanun": "TTK",
+        "no": "780"
+      }
+    ],
+    "makbuz senedi": [
+      {
+        "kanun": "TTK",
+        "no": "832"
+      }
+    ],
+    "varant": [
+      {
+        "kanun": "TTK",
+        "no": "835"
+      }
+    ],
+    "taşıma işleri": [
+      {
+        "kanun": "TTK",
+        "no": "850"
+      }
+    ],
+    "deniz ticareti": [
+      {
+        "kanun": "TTK",
+        "no": "931"
+      }
+    ],
+    "deniz kazaları": [
+      {
+        "kanun": "TTK",
+        "no": "1272"
+      }
+    ],
+    "çatma": [
+      {
+        "kanun": "TTK",
+        "no": "1286"
+      }
+    ],
+    "sigorta hukuku": [
+      {
+        "kanun": "TTK",
+        "no": "1401"
+      }
+    ],
+    "sigorta türleri": [
+      {
+        "kanun": "TTK",
+        "no": "1453"
+      }
+    ],
+    "zarar sigortaları": [
+      {
+        "kanun": "TTK",
+        "no": "1453"
+      }
+    ],
+    "can sigortaları": [
+      {
+        "kanun": "TTK",
+        "no": "1487"
+      }
+    ],
+    "kat mülkiyetinin kurulması": [
+      {
+        "kanun": "KMK",
+        "no": "10"
+      }
+    ],
+    "kat irtifakının kurulması": [
+      {
+        "kanun": "KMK",
+        "no": "10"
+      }
+    ],
+    "kat maliklerinin hakları": [
+      {
+        "kanun": "KMK",
+        "no": "15"
+      }
+    ],
+    "kat maliklerinin borçları": [
+      {
+        "kanun": "KMK",
+        "no": "18"
+      }
+    ],
+    "aidat": [
+      {
+        "kanun": "KMK",
+        "no": "20"
+      }
+    ],
+    "yönetim": [
+      {
+        "kanun": "KMK",
+        "no": "27"
+      }
+    ],
+    "kat malikleri kurulu": [
+      {
+        "kanun": "KMK",
+        "no": "29"
+      }
+    ],
+    "yönetici": [
+      {
+        "kanun": "KMK",
+        "no": "34"
+      }
+    ],
+    "kat mülkiyetinin sona ermesi": [
+      {
+        "kanun": "KMK",
+        "no": "46"
+      }
+    ],
+    "devre mülk": [
+      {
+        "kanun": "KMK",
+        "no": "57"
+      }
+    ],
+    "toplu yapılar": [
+      {
+        "kanun": "KMK",
+        "no": "66"
+      }
+    ],
+    "tanım ve kuruluşu": [
+      {
+        "kanun": "Kooperatifler K.",
+        "no": "1"
+      }
+    ],
+    "ortaklık sıfatı": [
+      {
+        "kanun": "Kooperatifler K.",
+        "no": "8"
+      }
+    ],
+    "ortakların hakları": [
+      {
+        "kanun": "Kooperatifler K.",
+        "no": "18"
+      }
+    ],
+    "ortakların sorumlulukları": [
+      {
+        "kanun": "Kooperatifler K.",
+        "no": "27"
+      }
+    ],
+    "kooperatif hesapları": [
+      {
+        "kanun": "Kooperatifler K.",
+        "no": "38"
+      }
+    ],
+    "genel kurul": [
+      {
+        "kanun": "Kooperatifler K.",
+        "no": "42"
+      }
+    ],
+    "yönetim kurulu": [
+      {
+        "kanun": "Kooperatifler K.",
+        "no": "55"
+      }
+    ],
+    "denetim kurulu": [
+      {
+        "kanun": "Kooperatifler K.",
+        "no": "65"
+      }
+    ],
+    "kooperatifin dağılması": [
+      {
+        "kanun": "Kooperatifler K.",
+        "no": "81"
+      }
+    ],
+    "dernek tüzüğü": [
+      {
+        "kanun": "Dernekler K.",
+        "no": "4"
+      }
+    ],
+    "izne tabi faaliyetler": [
+      {
+        "kanun": "Dernekler K.",
+        "no": "26"
+      }
+    ],
+    "kamu yararına çalışan dernekler": [
+      {
+        "kanun": "Dernekler K.",
+        "no": "27"
+      }
+    ],
+    "yasaklar": [
+      {
+        "kanun": "Dernekler K.",
+        "no": "29"
+      }
+    ],
+    "plakalar": [
+      {
+        "kanun": "Trafik Yön.",
+        "no": "53"
+      }
+    ],
+    "alkol ve uyuşturucu ile kullanma": [
+      {
+        "kanun": "Trafik Yön.",
+        "no": "97"
+      }
+    ],
+    "hız süreleri": [
+      {
+        "kanun": "Trafik Yön.",
+        "no": "100"
+      }
+    ],
+    "durma ve duraklama": [
+      {
+        "kanun": "Trafik Yön.",
+        "no": "111"
+      }
+    ],
+    "hukuki sorumluluk": [
+      {
+        "kanun": "Trafik Yön.",
+        "no": "159"
+      }
+    ],
+    "sigorta": [
+      {
+        "kanun": "Trafik Yön.",
+        "no": "159"
+      }
+    ],
+    "adli kovuşturma": [
+      {
+        "kanun": "Trafik Yön.",
+        "no": "160"
+      }
+    ],
+    "iş sözleşmesi": [
+      {
+        "kanun": "İş K.",
+        "no": "8"
+      }
+    ],
+    "sürekli-süreksiz iş sözleşmeleri": [
+      {
+        "kanun": "İş K.",
+        "no": "10"
+      }
+    ],
+    "belirli-belirsiz iş sözleşmeleri": [
+      {
+        "kanun": "İş K.",
+        "no": "11"
+      }
+    ],
+    "kısmi ve tam süreli iş sözleşmeleri": [
+      {
+        "kanun": "İş K.",
+        "no": "13"
+      }
+    ],
+    "süreli fesih": [
+      {
+        "kanun": "İş K.",
+        "no": "17"
+      }
+    ],
+    "geçersiz sebeple fesih": [
+      {
+        "kanun": "İş K.",
+        "no": "21"
+      }
+    ],
+    "haklı nedenle fesih": [
+      {
+        "kanun": "İş K.",
+        "no": "24"
+      }
+    ],
+    "işverenin haklı nedenle feshi": [
+      {
+        "kanun": "İş K.",
+        "no": "25"
+      }
+    ],
+    "ücret": [
+      {
+        "kanun": "İş K.",
+        "no": "32"
+      }
+    ],
+    "fazla çalışma ücreti": [
+      {
+        "kanun": "İş K.",
+        "no": "41"
+      }
+    ],
+    "UGBT": [
+      {
+        "kanun": "İş K.",
+        "no": "44"
+      }
+    ],
+    "hafta tatili ücreti": [
+      {
+        "kanun": "İş K.",
+        "no": "46"
+      }
+    ],
+    "genel tatil ücreti": [
+      {
+        "kanun": "İş K.",
+        "no": "47"
+      }
+    ],
+    "geçici iş göremezlik": [
+      {
+        "kanun": "İş K.",
+        "no": "48"
+      }
+    ],
+    "yıllık ücretli izin hakkı": [
+      {
+        "kanun": "İş K.",
+        "no": "53"
+      }
+    ],
+    "çalışma süresi": [
+      {
+        "kanun": "İş K.",
+        "no": "63"
+      }
+    ],
+    "ara dinlenmesi": [
+      {
+        "kanun": "İş K.",
+        "no": "68"
+      }
+    ],
+    "gece çalışmaları": [
+      {
+        "kanun": "İş K.",
+        "no": "69"
+      }
+    ],
+    "analık hali-süt izni": [
+      {
+        "kanun": "İş K.",
+        "no": "74"
+      }
+    ],
+    "idari cezalar": [
+      {
+        "kanun": "İş K.",
+        "no": "98"
+      }
+    ],
+    "zamanaşımı süreleri": [
+      {
+        "kanun": "İş K.",
+        "no": "3"
+      }
+    ],
+    "yargılama usulü": [
+      {
+        "kanun": "İş Mah. K.",
+        "no": "7"
+      }
+    ],
+    "temyize kapalı kararlar": [
+      {
+        "kanun": "İş Mah. K.",
+        "no": "8"
+      }
+    ],
+    "arabulucuların hak ve yükümlülükleri": [
+      {
+        "kanun": "Arabuluculuk K.",
+        "no": "6"
+      }
+    ],
+    "arabulucuya başvuru": [
+      {
+        "kanun": "Arabuluculuk K.",
+        "no": "13"
+      }
+    ],
+    "taşınmaz satışında arabuluculuk": [
+      {
+        "kanun": "Arabuluculuk K.",
+        "no": "17/B"
+      }
+    ],
+    "tarafların anlaşması": [
+      {
+        "kanun": "Arabuluculuk K.",
+        "no": "18"
+      }
+    ],
+    "dava şartı arabuluculuk": [
+      {
+        "kanun": "Arabuluculuk K.",
+        "no": "18/A"
+      }
+    ],
+    "arabulucular sicili": [
+      {
+        "kanun": "Arabuluculuk K.",
+        "no": "19"
+      }
+    ],
+    "arabuluculuk eğitimi": [
+      {
+        "kanun": "Arabuluculuk K.",
+        "no": "22"
+      }
+    ],
+    "memur vasıtasıyla tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "4"
+      },
+      {
+        "kanun": "Tebligat K.",
+        "no": "41"
+      }
+    ],
+    "elektronik tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "7/a"
+      }
+    ],
+    "tebligat esasları": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "8"
+      },
+      {
+        "kanun": "Tebligat Yön.",
+        "no": "13"
+      }
+    ],
+    "bilinen adrese tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "10"
+      }
+    ],
+    "vekile tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "11"
+      }
+    ],
+    "tüzel kişilere tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "12"
+      }
+    ],
+    "asker şahıslara tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "14"
+      }
+    ],
+    "aynı konuttakilere-hizmetçiye": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "16"
+      }
+    ],
+    "geçici ayrılma": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "20"
+      }
+    ],
+    "tebliğ imkansızlığı": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "21"
+      }
+    ],
+    "tebellüğden imtina": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "21"
+      }
+    ],
+    "tebliğ mazbatası": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "23"
+      }
+    ],
+    "yurtdışında tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "25"
+      }
+    ],
+    "ilanen tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "28"
+      },
+      {
+        "kanun": "Tebligat Yön.",
+        "no": "48"
+      }
+    ],
+    "Teb.K. 35": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "35"
+      }
+    ],
+    "kalemde tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "36"
+      }
+    ],
+    "celse arasında tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "36"
+      }
+    ],
+    "idari tebligat": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "45"
+      }
+    ],
+    "elektronik tebligat adresinin oluşturulması": [
+      {
+        "kanun": "Tebligat K.",
+        "no": "2"
+      }
+    ],
+    "tebligatın yapılması": [
+      {
+        "kanun": "Tebligat Yön.",
+        "no": "4"
+      }
+    ],
+    "yabancı ülkede tebligat": [
+      {
+        "kanun": "Tebligat Yön.",
+        "no": "38"
+      }
+    ],
+    "usulsüz tebligat": [
+      {
+        "kanun": "Tebligat Yön.",
+        "no": "53"
+      }
+    ],
+    "tebliğ evrakının hazırlanması": [
+      {
+        "kanun": "Tebligat Yön.",
+        "no": "73"
+      }
+    ],
+    "e-tebligat zorunluluğu": [
+      {
+        "kanun": "e-Tebligat Yön.",
+        "no": "5"
+      }
+    ],
+    "e-tebligatın yapılması": [
+      {
+        "kanun": "e-Tebligat Yön.",
+        "no": "9"
+      }
+    ],
+    "ispat gücü": [
+      {
+        "kanun": "e-Tebligat Yön.",
+        "no": "14"
+      }
+    ],
+    "e-tebligat adresinin kapatılması": [
+      {
+        "kanun": "e-Tebligat Yön.",
+        "no": "17"
+      }
+    ],
+    "PTT'nin yükümlülükleri": [
+      {
+        "kanun": "e-Tebligat Yön.",
+        "no": "20"
+      }
+    ],
+    "avukatlığa kabul şartları": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "3"
+      }
+    ],
+    "avukatlığa engel haller": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "5"
+      }
+    ],
+    "avukatlık ruhsatı ve yemin": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "9"
+      }
+    ],
+    "yasak haller": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "11"
+      }
+    ],
+    "staj": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "15"
+      }
+    ],
+    "stajyerin yapabileceği işler": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "26"
+      }
+    ],
+    "işin reddi zorunluluğu": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "38"
+      }
+    ],
+    "avukatlık ortaklığı": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "44"
+      }
+    ],
+    "reklam yasağı": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "55"
+      }
+    ],
+    "soruşturmada yetkili savcılık": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "58"
+      }
+    ],
+    "kovuşturma izni": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "59"
+      }
+    ],
+    "baro levhası": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "66"
+      }
+    ],
+    "barolar": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "76"
+      }
+    ],
+    "TBB": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "109"
+      }
+    ],
+    "avukatlık sözleşmesi": [
+      {
+        "kanun": "Avukatlık K.",
+        "no": "163"
+      }
+    ],
+    "birden çok avukatla temsil": [
+      {
+        "kanun": "AAÜT",
+        "no": "4"
+      }
+    ],
+    "konusuz kalma": [
+      {
+        "kanun": "AAÜT",
+        "no": "6"
+      }
+    ],
+    "görevsizlik-yetkisizlik hali": [
+      {
+        "kanun": "AAÜT",
+        "no": "7"
+      }
+    ],
+    "dava şartları yokluğu": [
+      {
+        "kanun": "AAÜT",
+        "no": "7"
+      }
+    ],
+    "husumet nedeniyle ret": [
+      {
+        "kanun": "AAÜT",
+        "no": "7"
+      }
+    ],
+    "birleştirme-ayırma": [
+      {
+        "kanun": "AAÜT",
+        "no": "8"
+      }
+    ],
+    "nafaka davaları": [
+      {
+        "kanun": "AAÜT",
+        "no": "9"
+      }
+    ],
+    "kira tespit davaları": [
+      {
+        "kanun": "AAÜT",
+        "no": "9"
+      }
+    ],
+    "tahliye davaları": [
+      {
+        "kanun": "AAÜT",
+        "no": "9"
+      }
+    ],
+    "manevi tazminat davaları": [
+      {
+        "kanun": "AAÜT",
+        "no": "10"
+      }
+    ],
+    "ceza davalarında ücret": [
+      {
+        "kanun": "AAÜT",
+        "no": "14"
+      }
+    ],
+    "iş takibinde ücret": [
+      {
+        "kanun": "AAÜT",
+        "no": "18"
+      }
+    ],
+    "seri davalarda ücret": [
+      {
+        "kanun": "AAÜT",
+        "no": "22"
+      }
+    ],
+    "yargı harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "2"
+      }
+    ],
+    "muafiyet ve istisnalar": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "13"
+      }
+    ],
+    "tahliye davalarında harç": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "17"
+      }
+    ],
+    "harcın ödenmesi": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "25"
+      }
+    ],
+    "merkezi takip sistemi harcı": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "29/A"
+      }
+    ],
+    "eksik harç yatırılması": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "30"
+      }
+    ],
+    "noter harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "38"
+      }
+    ],
+    "vergi yargısı harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "52"
+      }
+    ],
+    "tapu kadastro harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "57"
+      }
+    ],
+    "konsolosluk harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "71"
+      }
+    ],
+    "pasaport harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "83"
+      }
+    ],
+    "ikamet izni harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "83"
+      }
+    ],
+    "çalışma izni harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "83"
+      }
+    ],
+    "gemi ve liman harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "95"
+      }
+    ],
+    "trafik harçları": [
+      {
+        "kanun": "Harçlar K.",
+        "no": "118"
+      }
+    ],
+    "BAM idari işler ve yazı işleri": [
+      {
+        "kanun": "Yazı İşleri Yön.",
+        "no": "8"
+      }
+    ],
+    "CB yazı işleri": [
+      {
+        "kanun": "Yazı İşleri Yön.",
+        "no": "105"
+      }
+    ],
+    "hukuk mahkemeleri yazı işleri": [
+      {
+        "kanun": "Yazı İşleri Yön.",
+        "no": "169"
+      }
+    ],
+    "adalet komisyonu yazı işleri": [
+      {
+        "kanun": "Yazı İşleri Yön.",
+        "no": "221"
+      }
+    ],
+    "dilekçe": [
+      {
+        "kanun": "İYUK",
+        "no": "3"
+      }
+    ],
+    "dava açma süreleri": [
+      {
+        "kanun": "İYUK",
+        "no": "7"
+      }
+    ],
+    "iptal davası": [
+      {
+        "kanun": "İYUK",
+        "no": "12"
+      },
+      {
+        "kanun": "AYM K.",
+        "no": "35"
+      }
+    ],
+    "tam yargı davası": [
+      {
+        "kanun": "İYUK",
+        "no": "12"
+      }
+    ],
+    "sınavlara ilişkin yargılama usulü": [
+      {
+        "kanun": "İYUK",
+        "no": "20/B"
+      }
+    ],
+    "yürütmenin durdurulması": [
+      {
+        "kanun": "İYUK",
+        "no": "27"
+      }
+    ],
+    "kararların sonuçları": [
+      {
+        "kanun": "İYUK",
+        "no": "28"
+      }
+    ],
+    "bağlantı": [
+      {
+        "kanun": "İYUK",
+        "no": "32"
+      }
+    ],
+    "görevsizlik": [
+      {
+        "kanun": "İYUK",
+        "no": "32"
+      }
+    ],
+    "yetkisizlik": [
+      {
+        "kanun": "İYUK",
+        "no": "32"
+      }
+    ],
+    "kanun yararına temyiz": [
+      {
+        "kanun": "İYUK",
+        "no": "51"
+      }
+    ],
+    "çekinme ve ret": [
+      {
+        "kanun": "İYUK",
+        "no": "56"
+      }
+    ],
+    "parasal sınırların artırılması": [
+      {
+        "kanun": "İYUK",
+        "no": "1"
+      },
+      {
+        "kanun": "2576",
+        "no": "1"
+      }
+    ],
+    "nitelik, seçim ve atama": [
+      {
+        "kanun": "Danıştay K.",
+        "no": "8"
+      }
+    ],
+    "daire ve kurullar": [
+      {
+        "kanun": "Danıştay K.",
+        "no": "13"
+      }
+    ],
+    "daire ve kurulların görevleri": [
+      {
+        "kanun": "Danıştay K.",
+        "no": "23"
+      }
+    ],
+    "başkanın görevleri": [
+      {
+        "kanun": "Danıştay K.",
+        "no": "55"
+      }
+    ],
+    "disiplin kovuşturması": [
+      {
+        "kanun": "Danıştay K.",
+        "no": "67"
+      }
+    ],
+    "ceza kovuşturması": [
+      {
+        "kanun": "Danıştay K.",
+        "no": "76"
+      }
+    ],
+    "görevin sona ermesi": [
+      {
+        "kanun": "Danıştay K.",
+        "no": "83"
+      }
+    ],
+    "BİM oluşumu": [
+      {
+        "kanun": "2576",
+        "no": "3"
+      }
+    ],
+    "BİM görevleri": [
+      {
+        "kanun": "2576",
+        "no": "3/A"
+      }
+    ],
+    "BİM başkanlar kurulu": [
+      {
+        "kanun": "2576",
+        "no": "3/C"
+      }
+    ],
+    "dairelerin görevleri": [
+      {
+        "kanun": "2576",
+        "no": "3/D"
+      }
+    ],
+    "toplantı ve karar": [
+      {
+        "kanun": "2576",
+        "no": "3/F"
+      }
+    ],
+    "BİM adalet komisyonu": [
+      {
+        "kanun": "2576",
+        "no": "3/G"
+      }
+    ],
+    "yazı işleri": [
+      {
+        "kanun": "2576",
+        "no": "3/H"
+      }
+    ],
+    "soruşturma ve kovuşturma": [
+      {
+        "kanun": "2576",
+        "no": "3/I"
+      }
+    ],
+    "idare mahkemeleri": [
+      {
+        "kanun": "2576",
+        "no": "4"
+      }
+    ],
+    "vergi mahkemeleri": [
+      {
+        "kanun": "2576",
+        "no": "6"
+      }
+    ],
+    "tek hekimle çözümlenecek davalar": [
+      {
+        "kanun": "2576",
+        "no": "7"
+      }
+    ],
+    "mahkeme başkanlarının görevi": [
+      {
+        "kanun": "2576",
+        "no": "10"
+      }
+    ],
+    "üyelerin görevleri": [
+      {
+        "kanun": "2576",
+        "no": "11"
+      }
+    ],
+    "soruşturma izni-yetkili merciler": [
+      {
+        "kanun": "4483",
+        "no": "3"
+      }
+    ],
+    "ihbar": [
+      {
+        "kanun": "4483",
+        "no": "4"
+      }
+    ],
+    "işleme konulamayacak şikayetler": [
+      {
+        "kanun": "4483",
+        "no": "4"
+      }
+    ],
+    "süre": [
+      {
+        "kanun": "4483",
+        "no": "7"
+      }
+    ],
+    "soruşturma izninin kapsamı": [
+      {
+        "kanun": "4483",
+        "no": "7"
+      }
+    ],
+    "hazırlık soruşturması-merci": [
+      {
+        "kanun": "4483",
+        "no": "12"
+      }
+    ],
+    "yetkili ve görevli mahkeme": [
+      {
+        "kanun": "4483",
+        "no": "13"
+      }
+    ],
+    "resen dava açılacak haller": [
+      {
+        "kanun": "4483",
+        "no": "15"
+      }
+    ],
+    "kanun önünde eşitlik": [
+      {
+        "kanun": "AY",
+        "no": "10"
+      }
+    ],
+    "temel hak ve ödevler": [
+      {
+        "kanun": "AY",
+        "no": "12"
+      }
+    ],
+    "kişinin hakları ve ödevleri": [
+      {
+        "kanun": "AY",
+        "no": "17"
+      }
+    ],
+    "sosyal ve ekonomik haklar": [
+      {
+        "kanun": "AY",
+        "no": "41"
+      }
+    ],
+    "siyasi hak ve ödevler": [
+      {
+        "kanun": "AY",
+        "no": "66"
+      }
+    ],
+    "yasama": [
+      {
+        "kanun": "AY",
+        "no": "75"
+      }
+    ],
+    "yürütme": [
+      {
+        "kanun": "AY",
+        "no": "101"
+      }
+    ],
+    "yargı": [
+      {
+        "kanun": "AY",
+        "no": "138"
+      }
+    ],
+    "mali hükümler": [
+      {
+        "kanun": "AY",
+        "no": "161"
+      }
+    ],
+    "ekonomik hükümler": [
+      {
+        "kanun": "AY",
+        "no": "166"
+      }
+    ],
+    "Anayasa Mahkemesi": [
+      {
+        "kanun": "AY",
+        "no": "146"
+      }
+    ],
+    "Yargıtay": [
+      {
+        "kanun": "AY",
+        "no": "154"
+      }
+    ],
+    "Danıştay": [
+      {
+        "kanun": "AY",
+        "no": "155"
+      }
+    ],
+    "Uyuşmazlık Mahkemesi": [
+      {
+        "kanun": "AY",
+        "no": "158"
+      }
+    ],
+    "HSK": [
+      {
+        "kanun": "AY",
+        "no": "159"
+      }
+    ],
+    "Sayıştay": [
+      {
+        "kanun": "AY",
+        "no": "160"
+      }
+    ],
+    "MGK": [
+      {
+        "kanun": "AY",
+        "no": "118"
+      }
+    ],
+    "TBMM ve CB seçimlerinin yenilenmesi": [
+      {
+        "kanun": "AY",
+        "no": "116"
+      }
+    ],
+    "DDK": [
+      {
+        "kanun": "AY",
+        "no": "108"
+      }
+    ],
+    "CB Yardımcıları": [
+      {
+        "kanun": "AY",
+        "no": "106"
+      }
+    ],
+    "bakanlar": [
+      {
+        "kanun": "AY",
+        "no": "106"
+      }
+    ],
+    "seçim dönemi": [
+      {
+        "kanun": "AY",
+        "no": "77"
+      }
+    ],
+    "anayasanın değiştirilmesi": [
+      {
+        "kanun": "AY",
+        "no": "175"
+      }
+    ],
+    "referandum": [
+      {
+        "kanun": "AY",
+        "no": "175"
+      }
+    ],
+    "halk oylaması": [
+      {
+        "kanun": "AY",
+        "no": "175"
+      }
+    ],
+    "mahkemenin görev ve yetkileri": [
+      {
+        "kanun": "AYM K.",
+        "no": "3"
+      }
+    ],
+    "üyelerin nitelikleri": [
+      {
+        "kanun": "AYM K.",
+        "no": "6"
+      }
+    ],
+    "üyelerin seçimi": [
+      {
+        "kanun": "AYM K.",
+        "no": "7"
+      }
+    ],
+    "üyelik süresi ve teminatı": [
+      {
+        "kanun": "AYM K.",
+        "no": "10"
+      }
+    ],
+    "üyeliğin boşalması ve sona ermesi": [
+      {
+        "kanun": "AYM K.",
+        "no": "11"
+      }
+    ],
+    "disiplin işlemleri": [
+      {
+        "kanun": "AYM K.",
+        "no": "16"
+      }
+    ],
+    "teşkilat yapısı": [
+      {
+        "kanun": "AYM K.",
+        "no": "20"
+      }
+    ],
+    "genel sekreterlik": [
+      {
+        "kanun": "AYM K.",
+        "no": "23"
+      }
+    ],
+    "raportörler": [
+      {
+        "kanun": "AYM K.",
+        "no": "24"
+      }
+    ],
+    "bireysel başvuru": [
+      {
+        "kanun": "AYM K.",
+        "no": "45"
+      }
+    ],
+    "siyasi parti kapatma davaları": [
+      {
+        "kanun": "AYM K.",
+        "no": "52"
+      }
+    ],
+    "yüce divan yargılaması": [
+      {
+        "kanun": "AYM K.",
+        "no": "57"
+      }
+    ],
+    "kararlar": [
+      {
+        "kanun": "AYM K.",
+        "no": "65"
+      }
+    ],
+    "genel esaslar": [
+      {
+        "kanun": "Uyuşmazlık M.",
+        "no": "1"
+      }
+    ],
+    "UYM'ne başvuru yolları": [
+      {
+        "kanun": "Uyuşmazlık M.",
+        "no": "10"
+      }
+    ],
+    "hüküm uyuşmazlığı": [
+      {
+        "kanun": "Uyuşmazlık M.",
+        "no": "24"
+      }
+    ],
+    "görüşme ve kararlar": [
+      {
+        "kanun": "Uyuşmazlık M.",
+        "no": "26"
+      }
+    ],
+    "rapörtörlük": [
+      {
+        "kanun": "Uyuşmazlık M.",
+        "no": "31"
+      }
+    ],
+    "vergilendirmede yetki": [
+      {
+        "kanun": "VUK",
+        "no": "4"
+      }
+    ],
+    "vergi mahremiyeti": [
+      {
+        "kanun": "VUK",
+        "no": "5"
+      }
+    ],
+    "vergi sorumluluğu": [
+      {
+        "kanun": "VUK",
+        "no": "8"
+      }
+    ],
+    "vergiyi doğuran olay": [
+      {
+        "kanun": "VUK",
+        "no": "19"
+      }
+    ],
+    "tarh": [
+      {
+        "kanun": "VUK",
+        "no": "20"
+      }
+    ],
+    "tebliğ": [
+      {
+        "kanun": "VUK",
+        "no": "21"
+      }
+    ],
+    "tahakkuk": [
+      {
+        "kanun": "VUK",
+        "no": "22"
+      }
+    ],
+    "tahsil": [
+      {
+        "kanun": "VUK",
+        "no": "23"
+      }
+    ],
+    "beyannameye dayanan tarh": [
+      {
+        "kanun": "VUK",
+        "no": "25"
+      }
+    ],
+    "ikmalen tarh": [
+      {
+        "kanun": "VUK",
+        "no": "29"
+      }
+    ],
+    "resen tarh": [
+      {
+        "kanun": "VUK",
+        "no": "29"
+      }
+    ],
+    "idarece tarh": [
+      {
+        "kanun": "VUK",
+        "no": "29"
+      }
+    ],
+    "takdire dayanan tarh": [
+      {
+        "kanun": "VUK",
+        "no": "36"
+      }
+    ],
+    "zirai kazanç ölçüleri": [
+      {
+        "kanun": "VUK",
+        "no": "45"
+      }
+    ],
+    "takdir komisyonu": [
+      {
+        "kanun": "VUK",
+        "no": "72"
+      }
+    ],
+    "tebliğler": [
+      {
+        "kanun": "VUK",
+        "no": "93"
+      }
+    ],
+    "vergi alacağının kalkması": [
+      {
+        "kanun": "VUK",
+        "no": "110"
+      }
+    ],
+    "ödeme": [
+      {
+        "kanun": "VUK",
+        "no": "110"
+      }
+    ],
+    "ödeme vadesi": [
+      {
+        "kanun": "VUK",
+        "no": "111"
+      }
+    ],
+    "zamanaşımı ve terkin": [
+      {
+        "kanun": "VUK",
+        "no": "113"
+      }
+    ],
+    "vergi hatası": [
+      {
+        "kanun": "VUK",
+        "no": "116"
+      }
+    ],
+    "yoklama": [
+      {
+        "kanun": "VUK",
+        "no": "127"
+      }
+    ],
+    "vergi incelemeleri": [
+      {
+        "kanun": "VUK",
+        "no": "134"
+      }
+    ],
+    "bilgi toplama": [
+      {
+        "kanun": "VUK",
+        "no": "148"
+      }
+    ],
+    "mükellefin ödevleri": [
+      {
+        "kanun": "VUK",
+        "no": "153"
+      }
+    ],
+    "işe başlama": [
+      {
+        "kanun": "VUK",
+        "no": "153"
+      }
+    ],
+    "işi bırakma": [
+      {
+        "kanun": "VUK",
+        "no": "160"
+      }
+    ],
+    "defter tutma": [
+      {
+        "kanun": "VUK",
+        "no": "171"
+      }
+    ],
+    "serbest mesleklerde defter tutma": [
+      {
+        "kanun": "VUK",
+        "no": "210"
+      }
+    ],
+    "vesikalar": [
+      {
+        "kanun": "VUK",
+        "no": "227"
+      }
+    ],
+    "fatura ve yerine geçenler": [
+      {
+        "kanun": "VUK",
+        "no": "229"
+      }
+    ],
+    "serbest meslek makbuzu": [
+      {
+        "kanun": "VUK",
+        "no": "236"
+      }
+    ],
+    "muhafaza ve ibraz": [
+      {
+        "kanun": "VUK",
+        "no": "253"
+      }
+    ],
+    "değerleme": [
+      {
+        "kanun": "VUK",
+        "no": "258"
+      }
+    ],
+    "vergi ziyaı": [
+      {
+        "kanun": "VUK",
+        "no": "341"
+      }
+    ],
+    "vergi ziyaı cezası": [
+      {
+        "kanun": "VUK",
+        "no": "344"
+      }
+    ],
+    "usulsüzlük": [
+      {
+        "kanun": "VUK",
+        "no": "351"
+      }
+    ],
+    "kaçakçılık suç ve cezaları": [
+      {
+        "kanun": "VUK",
+        "no": "359"
+      }
+    ],
+    "vergi davaları": [
+      {
+        "kanun": "VUK",
+        "no": "377"
+      }
+    ]
+  }
+}
