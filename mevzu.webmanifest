@@ -8,8 +8,8 @@
  "scope": "./",
  "display": "standalone",
  "orientation": "any",
- "background_color": "#15343a",
- "theme_color": "#15343a",
+ "background_color": "#faf9f7",
+ "theme_color": "#ffffff",
  "icons": [
   {
    "src": "simge-192.png",
