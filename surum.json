@@ -1,10 +1,10 @@
 {
  "metin": "6 Eylül 2026",
- "zaman": 1788732905,
+ "zaman": 1788808563,
  "kurulus": "7 Eylül 2026",
  "mevzuat": 48,
- "boyut": 13726647,
- "surum": "1.7",
- "not": "Telefon düzeltmeleri, ana ekran simgesi ve tema seçimi",
- "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.7/MEVZU.html"
+ "boyut": 13728452,
+ "surum": "1.8",
+ "not": "Arama artık bölüm ve kısım başlıklarını da buluyor",
+ "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.8/MEVZU.html"
 }
