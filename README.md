@@ -3,7 +3,7 @@
 Sık kullanılan Türk mevzuatını tek pencerede toplayan, kendini güncelleyen
 bir masaüstü programı.
 
-**48 mevzuat · 8.691 madde** — metinlerin tamamı resmî
+**49 mevzuat · 8.786 madde** — metinlerin tamamı resmî
 [Mevzuat Bilgi Sistemi](https://www.mevzuat.gov.tr/)'nden alınmıştır.
 
 ---
@@ -34,7 +34,7 @@ komut istemine şunu yazın, çıkan uzun numara aşağıdakiyle aynı olmalı:
 certutil -hashfile MEVZU.exe SHA256
 ```
 
-`MEVZU.exe` (sürüm 1.8) · SHA256:
+`MEVZU.exe` (sürüm 1.9) · SHA256:
 `71b120fc8b208d6eb0055dcc41f13bc4f71fa002523ac1bb2d88396770bd634e`
 
 ### Windows uyarı verirse
