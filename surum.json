@@ -1,10 +1,10 @@
 {
  "metin": "8 Eylül 2026",
- "zaman": 1788898216,
- "kurulus": "8 Eylül 2026",
+ "zaman": 1788955503,
+ "kurulus": "9 Eylül 2026",
  "mevzuat": 49,
- "boyut": 13916468,
- "surum": "1.9",
- "not": "Tüketicinin Korunması Hakkında Kanun eklendi",
- "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v1.9/MEVZU.html"
+ "boyut": 13916999,
+ "surum": "2.0",
+ "not": "Telefonda dipnot paneli alt çubuğun arkasında kalmıyor",
+ "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v2.0/MEVZU.html"
 }
