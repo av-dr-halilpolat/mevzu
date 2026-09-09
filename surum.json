@@ -1,10 +1,10 @@
 {
  "metin": "8 Eylül 2026",
- "zaman": 1788955503,
+ "zaman": 1788959849,
  "kurulus": "9 Eylül 2026",
  "mevzuat": 49,
- "boyut": 13916999,
- "surum": "2.0",
- "not": "Telefonda dipnot paneli alt çubuğun arkasında kalmıyor",
- "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v2.0/MEVZU.html"
+ "boyut": 13925146,
+ "surum": "2.1",
+ "not": "TCK m.86 değişiklik süreci eklendi",
+ "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v2.1/MEVZU.html"
 }
