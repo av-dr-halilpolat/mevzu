@@ -1,31 +1,50 @@
 # MEVZU
 
 Sık kullanılan Türk mevzuatını tek pencerede toplayan, kendini güncelleyen
-bir masaüstü programı.
+bir program. Windows'ta masaüstü uygulaması olarak, öteki cihazlarda
+tarayıcıdan çalışır.
 
 **50 mevzuat · 8.803 madde** — metinlerin tamamı resmî
 [Mevzuat Bilgi Sistemi](https://www.mevzuat.gov.tr/)'nden alınmıştır.
 
 ---
 
-## Tarayıcıdan kullanmak — indirmeden
+## Hangi cihazdasınız?
 
-Telefon, tablet ya da başka bir bilgisayardan, hiçbir şey indirmeden:
-
-**https://av-dr-halilpolat.github.io/mevzu/**
-
-Telefonda tarayıcının menüsünden **"Ana Ekrana Ekle"** derseniz
-uygulama gibi durur. İlk açılışta metinler bir kez iner (13 MB),
-sonrasında hızlı açılır.
+| Cihaz | Ne yapmalı |
+|---|---|
+| **Telefon, tablet (iPhone, iPad, Android)** | Aşağıdaki adresi açın — indirme yok |
+| **Mac** | Aşağıdaki adresi açın — indirme yok |
+| **Windows** | Programı indirin (bir alttaki bölüm) |
 
 ---
 
-## İndirme
+## Tarayıcıdan kullanmak — indirmeden (her cihaz)
+
+**https://av-dr-halilpolat.github.io/mevzu/**
+
+Kurulum yok, indirme yok. Açtığınız yerden çalışır.
+
+Uygulama gibi dursun isterseniz:
+
+- **iPhone / iPad:** Safari → Paylaş → **Ana Ekrana Ekle**
+- **Mac:** Safari → Paylaş → **Dock'a Ekle**
+- **Android:** Chrome → ⋮ → **Ana ekrana ekle**
+
+İlk açılışta metinler bir kez iner (yaklaşık 3 MB), sonrasında
+hızlı açılır ve internetsiz de çalışır.
+
+---
+
+## Windows için indirme
 
 1. Şu bağlantıya tıklayın — her zaman en güncel sürümü indirir:
    **[MEVZU.exe indir](https://github.com/av-dr-halilpolat/mevzu/releases/latest/download/MEVZU.exe)**
 2. İnen dosyaya çift tıklayın. Kurulum yok, Python ya da başka bir
    program gerekmez.
+
+> `MEVZU.exe` **yalnızca Windows'ta** çalışır. Mac ya da iPhone
+> kullanıyorsanız yukarıdaki tarayıcı adresini kullanın.
 
 İndirdiğiniz dosyanın bozulmadığını doğrulamak isterseniz — Windows'ta
 komut istemine şunu yazın, çıkan uzun numara aşağıdakiyle aynı olmalı:
@@ -34,7 +53,7 @@ komut istemine şunu yazın, çıkan uzun numara aşağıdakiyle aynı olmalı:
 certutil -hashfile MEVZU.exe SHA256
 ```
 
-`MEVZU.exe` (sürüm 2.2) · SHA256:
+`MEVZU.exe` (sürüm 2.3) · SHA256:
 `71b120fc8b208d6eb0055dcc41f13bc4f71fa002523ac1bb2d88396770bd634e`
 
 ### Windows uyarı verirse
@@ -45,6 +64,12 @@ certutil -hashfile MEVZU.exe SHA256
 
 **Daha fazla bilgi → Yine de çalıştır** deyin. Bu uyarı programın zararlı
 olduğu anlamına gelmez; imzasız olduğu anlamına gelir.
+
+### Tek dosya olarak taşımak (her işletim sistemi)
+
+Sürüm ekindeki **`MEVZU.html`** dosyasını indirip çift tıklarsanız
+program tarayıcıda açılır — Windows, Mac, Linux fark etmez. Kurulum
+yok, internet gerekmez; USB belleğe atıp taşıyabilirsiniz.
 
 ---
 
