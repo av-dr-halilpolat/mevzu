@@ -1,10 +1,10 @@
 {
  "metin": "20 Eylül 2026",
- "zaman": 1790100071,
- "kurulus": "22 Eylül 2026",
+ "zaman": 1790279003,
+ "kurulus": "24 Eylül 2026",
  "mevzuat": 50,
- "boyut": 14014315,
- "surum": "2.3",
- "not": "Mac ve iPhone için yönlendirme; tek dosya kendi kendine yeter",
- "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v2.3/MEVZU.html"
+ "boyut": 14016940,
+ "surum": "2.4",
+ "not": "Kavram önerisine tıklayınca ilgili maddeye gidiliyor",
+ "sayfa_url": "https://github.com/av-dr-halilpolat/mevzu/releases/download/v2.4/MEVZU.html"
 }
